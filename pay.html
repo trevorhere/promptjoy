@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pay Invoice - PromptJoy</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .pay-hero {
+            padding: 120px 0 80px;
+            text-align: center;
+        }
+        .pay-hero h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+        .pay-hero p {
+            color: var(--text-muted);
+            font-size: 1.125rem;
+            max-width: 600px;
+            margin: 0 auto 2rem;
+        }
+        .payment-options {
+            padding: 40px 0 100px;
+        }
+        .payment-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .payment-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 2rem;
+            text-align: center;
+        }
+        .payment-card h3 {
+            margin-bottom: 0.5rem;
+        }
+        .payment-card p {
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+        }
+        .payment-card .price {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+        }
+        .payment-card .price span {
+            font-size: 1rem;
+            font-weight: 400;
+            color: var(--text-muted);
+        }
+        .invoice-notice {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 1.5rem;
+            max-width: 600px;
+            margin: 3rem auto 0;
+            text-align: center;
+        }
+        .invoice-notice h4 {
+            margin-bottom: 0.5rem;
+        }
+        .invoice-notice p {
+            color: var(--text-muted);
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="/" class="logo">PromptJoy</a>
+            <div class="nav-links">
+                <a href="/#how-it-works">How it works</a>
+                <a href="/#pricing">Pricing</a>
+                <a href="/#faq">FAQ</a>
+                <a href="https://cal.com" class="btn btn-primary">Book a call</a>
+            </div>
+        </div>
+    </nav>
+
+    <header class="pay-hero">
+        <div class="container">
+            <h1>Subscribe & Pay</h1>
+            <p>Choose your plan below to start your subscription, or use the invoice link sent to your email for custom payments.</p>
+        </div>
+    </header>
+
+    <section class="payment-options">
+        <div class="container">
+            <div class="payment-grid">
+                <div class="payment-card">
+                    <h3>Standard</h3>
+                    <p>One request at a time</p>
+                    <div class="price">$4,995<span>/month</span></div>
+                    <!-- Replace with your Stripe Payment Link -->
+                    <a href="#" class="btn btn-primary btn-block" onclick="alert('Payment link coming soon! Contact hello@promptjoy.co to get started.'); return false;">Subscribe</a>
+                </div>
+                <div class="payment-card">
+                    <h3>Pro</h3>
+                    <p>Two requests at a time</p>
+                    <div class="price">$7,995<span>/month</span></div>
+                    <!-- Replace with your Stripe Payment Link -->
+                    <a href="#" class="btn btn-primary btn-block" onclick="alert('Payment link coming soon! Contact hello@promptjoy.co to get started.'); return false;">Subscribe</a>
+                </div>
+            </div>
+            
+            <div class="invoice-notice">
+                <h4>📧 Received an invoice?</h4>
+                <p>Check your email for a direct payment link from Stripe. You can pay invoices securely through that link.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <a href="/" class="logo">PromptJoy</a>
+                    <p>Unlimited AI consulting for a flat monthly fee.</p>
+                </div>
+                <div class="footer-links">
+                    <a href="/privacy.html">Privacy Policy</a>
+                    <a href="/terms.html">Terms of Service</a>
+                    <a href="mailto:hello@promptjoy.co">Contact</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 PromptJoy. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
