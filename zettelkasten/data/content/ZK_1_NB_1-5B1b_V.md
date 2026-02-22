@@ -1,13 +1,12 @@
-
 # ZK I Zettel 1,5B1b
 
 ## 1,5B1b 
 
  
 
- recht gedeihen. Erklärung und Rechtfertigung 
- fallen zusammen, weil das Naturrecht ein vernünftiges 
- Recht ist (" Reason , in this sense, is nothing but Reckoning of 
+ flourish on this ground. Explanation and justification 
+ coincide because natural law is a rational 
+ law (" Reason , in this sense, is nothing but Reckoning of 
  the consequences of generall names agreed upon, for the 
  marking and signifying of our thoughts" ( [[Bibliography/hobbes_1949_leviathan|I 5, S. 18]] ); "A 
  Law of Nature is a Precept, or general Rule, formed out 
@@ -15,13 +14,13 @@
  which is destructive of his life, or taketh away 
  the means of preserving the same" ( [[Bibliography/hobbes_1949_leviathan|I 14, S. 66]] ).) 
 
- d.) Die vernunftrechtlich gebotene, fingierte Zustimmung geht 
- auf einen möglichst effektiven Staat . Das ist ein 
- logischer Sprung, der nicht weiter erklärt wird. Warum 
- die Menschen nicht mit einem schwächeren Staat aus - 
- kommen können, bleibt offen. Alle Effektivitäts - 
- schranken, z.B. manche Grundrechte, die Gewaltenteilung werden 
- in [[Bibliography/hobbes_1949_leviathan|II, S. 29]] als Gefahr der Auflösung des Staates dargestellt. [[Fortsetzung des Textes auf Zettel 1-5B1c|]]
+ d.) The rationally-legally required, feigned consent goes 
+ toward a maximally effective state. This is a 
+ logical leap that is not further explained. Why 
+ humans cannot make do with a weaker state 
+ remains open. All effectiveness- 
+ limitations, e.g. certain basic rights, separation of powers, are 
+ presented in [[Bibliography/hobbes_1949_leviathan|II, S. 29]] as a danger of the dissolution of the state. [[Fortsetzung des Textes auf Zettel 1-5B1c|]]
 
 ---
 ## Navigation

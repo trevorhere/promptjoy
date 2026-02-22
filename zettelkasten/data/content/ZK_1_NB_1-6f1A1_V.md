@@ -1,4 +1,3 @@
-
 # ZK I Zettel 1,6f1A1
 
 ## 1,6f1A1 
@@ -10,8 +9,8 @@
  inconsistencies and conflict of values in our 
  complex pluralistic society". 
 
- Entscheidungsharmonie entspricht, ebenso wie die strukturelle 
- Aufbaueinheit, dem Einheitstypus System; vgl. [[8-10|8,10]] .
+ Decision harmony corresponds, just like structural 
+ unity of construction, to the type of unity known as system; cf. [[8-10|8,10]].
 
 ---
 ## Navigation

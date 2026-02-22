@@ -1,35 +1,33 @@
-
 # ZK I Zettel 1,6f1
 
 ## 1,6f1 
 
- 3.) Abstufung nach der Geschlossenheit der Auswirkung [[1-6f1B|2]] 
+ 3.) Gradation according to the coherence of effects [[1-6f1B|2]] 
  
 
  X X X 
 
- Von dieser in der Entscheidung hergestellten Einheit ist zu 
- unterscheiden: 
+ From this unity produced in decision, one must distinguish: 
 
  
 
- 1.) Der innere Zusammenhang der Entscheidungen unter - 
- einander, ihre Harmonie bzw. Widersprüchlichkeit, die 
- Geschlossenheit der "Politik" der Organisation. [[1-6f1A|1]] 
+ 1.) The internal coherence of decisions among 
+ themselves, their harmony or contradictoriness, the 
+ consistency of the organization's "policy." [[1-6f1A|1]] 
 
- 2.) die Einheit des organisatorischen Gefüges, die strukturelle 
- Harmonie, die Aufbauhomogenität der Organisation. [[1-6f1C|3]] 
+ 2.) The unity of the organizational structure, structural 
+ harmony, the constructional homogeneity of the organization. [[1-6f1C|3]] 
 
  *X* 
 
- In allen vier Formen ist die Einheit der Organisation nie 
- fertig, sondern aufgegeben, und stets nur relativ realisierbar. 
- vgl. auch [[1-6g|1,6g]] ; [[21-7|21,7]] 
+ In all four forms, the unity of the organization is never 
+ finished, but rather assigned as a task, and always only relatively realizable. 
+ cf. also [[1-6g|1,6g]]; [[21-7|21,7]] 
 
  
 
- *x* 3.) Einheit der Dauer durch Stereotypisierung 
- der sich wiederholenden Verläufe. [[1-6f1D|4]]
+ *x* 3.) Unity of duration through stereotyping 
+ of recurring processes. [[1-6f1D|4]]
 
 ---
 ## Navigation

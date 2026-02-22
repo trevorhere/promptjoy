@@ -1,13 +1,12 @@
-
 # ZK I Zettel 1,5B1e
 
 ## 1,5B1e 
 
  and means of them all, as he shall think 
  expedient, for their Peace and Common Defence" 
- ( [[Bibliography/hobbes_1949_leviathan|II 17a.E., S. 90]] )]. Er kann sich deshalb gegen die 
- Staatshandlungen als gegen seine eigenen 
- Handlungen nicht wehren.
+ ( [[Bibliography/hobbes_1949_leviathan|II 17a.E., S. 90]] )]. He can therefore not defend himself 
+ against the state's actions as against his own 
+ actions.
 
 ---
 ## Navigation

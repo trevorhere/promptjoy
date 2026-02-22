@@ -1,26 +1,25 @@
-
 # ZK I Zettel 1,6,2a
 
-## 1,6,2a also darin, einen Ersatz für die einheitsstiftende 
- Funktion des Bewusstseins zu suchen. 
+## 1,6,2a therefore in seeking a substitute for the unity-creating 
+ function of consciousness. 
 
- Vgl. dazu [[Bibliography/hartmann_1949_problem|Hartmann, insb. S. 320ff.]] 
+ Cf. on this [[Bibliography/hartmann_1949_problem|Hartmann, insb. S. 320ff.]] 
 
- [[Bibliography/hartmann_1949_problem|Hartmann]] s Ausweg: stellvertretendes Bewusstsein. Das 
- Individuum repräsentiert – leider inadaequat – den objektiven 
- Geist; vgl. noch [[50-2|50,2]] . 
+ [[Bibliography/hartmann_1949_problem|Hartmann]]'s way out: vicarious consciousness. The 
+ individual represents – unfortunately inadequately – objective 
+ spirit; cf. also [[50-2|50,2]] . 
 
- Dem liegt der Gedanke zu Grunde, dass man das fehlende 
- Bewusstsein des objektiven Geistes durch ein anderes – unzurei - 
- chendes – Bewusstsein ersetzen müsse. 
+ Underlying this is the thought that one must replace the missing 
+ consciousness of objective spirit with another – insuf- 
+ ficient – consciousness. 
 
- Man könnte aber auch daran denken – und das liegt 
- mir mehr – eine ganz andere Art von Einheit zu suchen, 
- die gar nicht durch das Merkmal des Bewusstseins, sondern 
- durch die Aktion konstituiert wird. 
+ But one could also think – and this appeals to me 
+ more – of seeking an entirely different kind of unity, 
+ which is constituted not by the characteristic of consciousness but 
+ by action. 
 
- Gegen [[Bibliography/hartmann_1949_problem|Hartmann]] spricht die Tatsache, dass die Einheit 
- eines Staates keineswegs vom möglichst hochwertigen, [[Fortsetzung des Textes auf Zettel 1-6-2b|]]
+ Against [[Bibliography/hartmann_1949_problem|Hartmann]] speaks the fact that the unity 
+ of a state is by no means dependent on the most highly valued, [[Fortsetzung des Textes auf Zettel 1-6-2b|]]
 
 ---
 ## Navigation

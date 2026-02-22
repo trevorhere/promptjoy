@@ -1,18 +1,16 @@
-
 # ZK I Zettel 1,5e
 
-## 1,5e Das schlagendste Argument gegen die kritisier - 
- ten Einheits-Voraussetzungen ist aber ein methodisches , 
- dass nämlich diese Art Voraussetzungen als Axiome 
- eines wissenschaftlichen Systems ungeeignet sind, weil 
- sich aus ihnen die widersprüchlichsten Folgerungen, also 
- keine eindeutig-speziellen, experimentell prüfbaren 
- Folgerungen Resultate ableiten lassen. Sie sind nicht falsifizier - 
- bar. Sie stehen wissenschaftstheoretisch gesehen auf einer 
- Stufe mit der Annahme körperloser Geister oder 
- unmittelbarer göttlicher Eingriffe in die Natur, was die 
- Naturwissenschaft seit längerem aus diesen Gründen 
- ablehnt.
+## 1,5e The most striking argument against the criticized 
+ unity-presuppositions is, however, a methodological one: 
+ namely that these kinds of presuppositions are unsuitable as axioms 
+ of a scientific system because 
+ the most contradictory conclusions, hence 
+ no uniquely specific, experimentally testable 
+ conclusions results can be derived from them. They are not falsifi- 
+ able. From a philosophy-of-science perspective, they stand on the same 
+ level as the assumption of bodiless spirits or 
+ immediate divine interventions in nature, which 
+ natural science has long rejected for these reasons.
 
 ---
 ## Navigation

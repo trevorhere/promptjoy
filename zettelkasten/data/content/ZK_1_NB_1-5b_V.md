@@ -1,21 +1,21 @@
-
 # ZK I Zettel 1,5b
 
-## 1,5b fortgebildete Aktionseinheit". 
+## 1,5b continuously developed through organized, i.e., 
+ conscious human engagement." 
 
- [[Bibliography/scheuner_1952_regierung|a.a.O.]] : "Staat ist ein geistiger Lebensprozess, in 
- dem bewusstes menschliches Handeln eine Kollek - 
- tiveinheit über den Wechsel der Individuen und 
- der Zeit hinweg zu einheitichem Wirken vereinigt." 
+ [[Bibliography/scheuner_1952_regierung|a.a.O.]] : "The state is a spiritual life-process in 
+ which conscious human action unites a collec- 
+ tive unity to unified effect across the change of individuals and 
+ time." 
 
- vgl. zit. bei [[Bibliography/scheuner_1952_regierung|Scheuner, Smendfestgabe, Anm. 48]] : 
+ cf. cited in [[Bibliography/scheuner_1952_regierung|Scheuner, Smendfestgabe, Anm. 48]] : 
  [[Bibliography/donoso-cortes_1893_lecciones|Donoso Cortes, Lecciones de derecho politico(1836/37) Obras, Madrid 1893, Bd III, S. 126]] : 
  "Todo Gobierno es una accion de tal 
  manera que un Gobierno que non obra 
  abdica: para un Gobierno obrar es ser." 
 
- Dazu [[Bibliography/scheuner_1952_regierung|Scheuner]] : "Der Staat lebt also nur im orga - 
- nisierten Handeln der ihn tragenden Menschen; [[Fortsetzung des Textes auf Zettel 1-5c|]]
+ On this [[Bibliography/scheuner_1952_regierung|Scheuner]] : "The state thus lives only in the orga- 
+ nized action of the people who support it; [[Fortsetzung des Textes auf Zettel 1-5c|]]
 
 ---
 ## Navigation

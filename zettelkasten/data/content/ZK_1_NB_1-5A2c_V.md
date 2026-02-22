@@ -1,10 +1,9 @@
-
 # ZK I Zettel 1,5A2c
 
-## 1,5A2c möglichen Urteile und Folgerungen man tatsäch - 
- lich aktualisiert. 
+## 1,5A2c possible judgments and conclusions one actually 
+ actualizes. 
 
- Vgl. auch [[17-11|17,11]] f.
+ Cf. also [[17-11|17,11]] f.
 
 ---
 ## Navigation

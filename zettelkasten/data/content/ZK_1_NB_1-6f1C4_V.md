@@ -1,20 +1,19 @@
-
 # ZK I Zettel 1,6f1C4
 
-## 1,6f1C4 Die Aufbau-Einheit der Organisation glaubt 
- man vielfach dadurch gewährleisten, belegen zu können, 
- dass man – polemisch gegen die Gewaltenteilung gerichtet – 
- die Exekutive verabsolutiert, ja den Staat ausschliesslich 
- als Verwaltungsapparat auffasst. 
+## 1,6f1C4 The structural unity of the organization is often 
+ thought to be guaranteed and demonstrated 
+ by – polemically directed against the separation of powers – 
+ absolutizing the executive, indeed conceiving the state exclusively 
+ as an administrative apparatus. 
 
- So z.B. [[Bibliography/magyary_1941_staat|Magyary, Z f d ges StW 101 (1941), S. 627ff.]] 
- Das ist jedoch jedenfalls dann verfehlt, wenn man 
- den herkömmlichen deutschen Verwaltungsbegriff 
- verwendet, und auch der weitere englisch-amerikanische 
- Begriff administration trägt nicht den ganzen Staat. 
- So richtig es gesehen ist, dass die Exekutive im modernen 
- Staat dominiert und ihm sein Gefüge gibt, so wenig 
- ist es methodisch berechtigt, einen Teilbegriff der bisherigen [[Fortsetzung des Textes auf Zettel 1-6f1C5|]]
+ So e.g. [[Bibliography/magyary_1941_staat|Magyary, Z f d ges StW 101 (1941), S. 627ff.]] 
+ This is however in any case mistaken if one 
+ uses the traditional German concept of administration, 
+ and even the broader English-American 
+ concept of administration does not encompass the entire state. 
+ As correct as it is to see that the executive dominates 
+ in the modern state and gives it its structure, it is just as little 
+ methodologically justified to inflate a partial concept of previous [[Continuation of text on slip 1-6f1C5|]]
 
 ---
 ## Navigation

@@ -1,4 +1,3 @@
-
 # ZK I Zettel 1,6f1C1
 
 ## 1,6f1C1 by order as defined for a particular purpose, 
@@ -8,15 +7,15 @@
  either becomes a new system or a new state of the same 
  system." 
 
- vgl. ferner [[Bibliography/heller_1934_staatslehre|Heller, Staatslehre, S. 233]] : "Die potentielle 
- Einheit der Organisation, ihre Beständigkeit als wirkliche 
- Akteinheit im Nacheinander aller Beteiligten wird allerdings 
- erst durch die Einheit ihrer regelgeforderten Ordnung be - 
- gründet. Namentlich wird durch die Einheit der objektivierten 
- Ordnung in der Zeit auch bei Wechsel aller Beteiligten ein 
- Überlieferungszusammenhang geschaffen, der die Sicherheit 
- einer regelmäßigen Wiederkehr des einheitsbildenden Ver - 
- haltens und damit die Sicherheit der Dauer des Handlungs - [[Fortsetzung des Textes auf Zettel 1-6f1C2|]]
+ cf. further [[Bibliography/heller_1934_staatslehre|Heller, Staatslehre, S. 233]]: "The potential 
+ unity of the organization, its persistence as real 
+ act-unity in the succession of all participants is indeed 
+ only founded through the unity of its rule-required order. 
+ In particular, through the unity of the objectified 
+ order in time, even with change of all participants, a 
+ tradition-context is created that significantly increases the certainty 
+ of a regular recurrence of unity-forming behavior 
+ and thus the certainty of the duration of the action [[Continuation of text on slip 1-6f1C2|]]
 
 ---
 ## Navigation

@@ -1,16 +1,15 @@
-
 # ZK I Zettel 1,6f1B
 
-## 1,6f1B [[1-6f1|2]] Einheit der Entscheidung gegenüber den viel - 
- heitlichen Einflüssen ist wohl nur zu begreifen, wenn 
- man die Entscheidung als Ingangsetzen eines kooperativen 
- Handelns versteht und damit das Einheitsproblem 
- auf das Causalitätsproblem zurückführt, wie in 
- [[83-2c4a|83,2c4a]] ausgeführt. 
+## 1,6f1B [[1-6f1|2]] Unity of decision in the face of multiple 
+ influences can probably only be grasped if 
+ one understands the decision as the initiation of cooperative 
+ action and thereby traces the unity problem 
+ back to the causality problem, as explained in 
+ [[83-2c4a|83,2c4a]]. 
 
- Aber das ist nicht möglich, weil sich so die Einheit - 
- lichkeit des Zwecksetzens nicht erklären lässt. 
- Vgl. [[83-2c4b|83,2c4b]] und weiterführend: [[83-2c3-1|83,2c3,1]] ff.
+ But this is not possible, because in this way the unity 
+ of purpose-setting cannot be explained. 
+ Cf. [[83-2c4b|83,2c4b]] and further: [[83-2c3-1|83,2c3,1]] ff.
 
 ---
 ## Navigation

@@ -1,22 +1,21 @@
-
 # ZK I Zettel 1,5A2
 
 ## 1,5A2 
 
- Kritik dieser Lehre: 
+ Critique of this doctrine: 
 
- Sie übergeht die faktischen Individualwillen 
- und ihre Gegensätzlichkeit durch eine Fiktion. Sie 
- sieht das zu ordnende Chaos überhaupt nicht. 
+ It bypasses the factual individual wills 
+ and their oppositions through a fiction. It 
+ does not see the chaos that needs ordering at all. 
 
- Sie macht den Staat zu einer Substanz realen 
- Wesens, wogegen Wissenschaft den relationalen 
- Charakter betonen muss – vgl. auch [[1-6e|1,6e]] und 
- namentlich die Kritik von [[Bibliography/cohen_1931_reason|Cohen]] gerade unter diesem 
- Gesichtspunkt. 
+ It makes the state into a substance of real 
+ essence, against which science must emphasize the relational 
+ character – cf. also [[1-6e|1,6e]] and 
+ especially the critique by [[Bibliography/cohen_1931_reason|Cohen]] precisely from this 
+ viewpoint. 
 
- Vgl. auch die Kritik von [[Bibliography/heller_1934_staatslehre|Heller, Staatslehre, insb. S. 228f.]] ; 
- vgl. auch [[83-2c5|83,2c5]] . [[Fortsetzung der Liste auf Zettel 1-5A3|]]
+ Cf. also the critique by [[Bibliography/heller_1934_staatslehre|Heller, Staatslehre, insb. S. 228f.]] ; 
+ cf. also [[83-2c5|83,2c5]] . [[Fortsetzung der Liste auf Zettel 1-5A3|]]
 
 ---
 ## Navigation

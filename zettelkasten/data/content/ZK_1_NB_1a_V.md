@@ -1,13 +1,12 @@
-
 # ZK I Zettel 1a
 
-## 1a [[1_1|1]] Zum Problem der Einheit eines Kollektivs vgl. 
- grundsätzlich [[78-17|78,17]] 
- system. [systematische [NL-Archiv]] Anknüpfung der Einheitsproblematik beim 
- Problem der konstituierenden Identifikation vgl. insb. [[57-4e7b1e|57,4e7b1e]] 
- Einheit des Staates als Einheit der Herrschaft [[21-10d|21,10d]] 
- Einheit des Staates / Parteien [[18-2|18,2]] ; [[18-3|18,3]] 
- Einheit einer Organisation [[28-10f4o|28,10f4o]]
+## 1a [[1_1|1]] On the problem of the unity of a collective cf. 
+ fundamentally [[78-17|78,17]] 
+ system. [systematic [NL-Archive]] connection of the unity problematic with the 
+ problem of constituting identification cf. esp. [[57-4e7b1e|57,4e7b1e]] 
+ Unity of the state as unity of rule [[21-10d|21,10d]] 
+ Unity of the state / parties [[18-2|18,2]]; [[18-3|18,3]] 
+ Unity of an organization [[28-10f4o|28,10f4o]]
 
 ---
 ## Navigation

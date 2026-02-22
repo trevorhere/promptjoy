@@ -1,9 +1,8 @@
-
 # ZK I Zettel 1,5Aa
 
-## 1,5Aa [[1-5A|1]] Verweisungen [[13-1|13,1]] ; [[17-3g1|17,3g1]] ; [[16-8|16,8]] 
- system. [systematische [NL-Archiv]] Anknüpfung evtl. [[21-10d|21,10d]] 
- system. [systematische [NL-Archiv]] Anknüpfung [[28-19c6|28,19c6]] / [[28-19c7|7]]
+## 1,5Aa [[1-5A|1]] References [[13-1|13,1]] ; [[17-3g1|17,3g1]] ; [[16-8|16,8]] 
+ systematic [systematische [NL-Archiv]] connection possibly [[21-10d|21,10d]] 
+ systematic [systematische [NL-Archiv]] connection [[28-19c6|28,19c6]] / [[28-19c7|7]]
 
 ---
 ## Navigation

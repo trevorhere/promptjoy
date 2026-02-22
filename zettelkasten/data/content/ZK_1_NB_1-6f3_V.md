@@ -1,16 +1,15 @@
-
 # ZK I Zettel 1,6f3
 
-## 1,6f3 ist aber ein System nicht mehr als die Summe 
- seiner Teile. 
+## 1,6f3 however a system is not more than the sum 
+ of its parts. 
 
- Ein klassisches Beispiel für die Verwirrung beider Frage - 
- stellungen bietet [[Bibliography/barnard_1951_executive|Barnard, S. 79f.]] Er meint, mit 
- Feststellung eines potenzierten Wirkungseffektes begründen 
- zu können, dass die Organisation als Systemeinheit mehr 
- ist als die Summe der Einzelteile des Systems – die er 
- freilich wegen ungenügender Trennung von Kooperation 
- und Organisation als Beitragsleistungen auffasst.
+ A classic example of the confusion of both question 
+ formulations is offered by [[Bibliography/barnard_1951_executive|Barnard, S. 79f.]] He thinks he can 
+ justify with the determination of an amplified effect 
+ that the organization as system unity is more 
+ than the sum of the individual parts of the system – which he 
+ admittedly, due to insufficient separation of cooperation 
+ and organization, conceives as contributions.
 
 ---
 ## Navigation

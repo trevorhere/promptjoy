@@ -1,16 +1,15 @@
-
 # ZK I Zettel 1,6f1D
 
-## 1,6f1D [[1-6f1|4]] Einheit in der Dauer gewinnt Organisation 
- durch Vorzeichnung stereotyp zu wiederholender Hand - 
- lungen, wobei das Mass der Festlegung wechseln 
- kann. Diese Einheit oder besser Einheitlichkeit 
- gehört dem Gleichtheitstypus an, und Gleichheit ist 
- stets relative Identität in bestimmten Momenten, 
- während andere divergieren. 
- vgl. [[1-2|1,2]] ; [[6|6]] ; [[28-10g|28,10g]] 
+## 1,6f1D [[1-6f1|4]] Unity in duration is gained by organization 
+ through the prescription of stereotypically repeating actions, 
+ whereby the degree of fixation can 
+ vary. This unity or better uniformity 
+ belongs to the equality type, and equality is 
+ always relative identity in certain moments, 
+ while others diverge. 
+ cf. [[1-2|1,2]]; [[6|6]]; [[28-10g|28,10g]] 
 
- zum Verhältnis Gleichheit / Dauer grundsätzlich [[6-10|6,10]] .
+ on the relationship equality / duration fundamentally [[6-10|6,10]].
 
 ---
 ## Navigation

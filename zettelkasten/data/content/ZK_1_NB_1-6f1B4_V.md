@@ -1,21 +1,20 @@
-
 # ZK I Zettel 1,6f1B4
 
-## 1,6f1B4 Die Lehre von der Entscheidungseinheit oder 
- Wirkungseinheit in der vorliegenden Form widerspricht 
- der Lehre von der Einheit der Handlung, wie sie in 
- [[60-4d15d|60,4d15d]] ff. skizziert ist. Zumindest muss diese Differenz 
- terminologisch bereinigt werden, indem der Ausdruck 
- Entscheidungseinheit mit dem Ausdruck Einheit des 
- Handelns koordiniert und beides von der rein objektiven, 
- nicht dem gemeinten Sinn nach zu beurteilenden 
- Wirkungseinheit unterschieden wird. 
+## 1,6f1B4 The doctrine of decision unity or 
+ effect unity in its present form contradicts 
+ the doctrine of the unity of action as sketched in 
+ [[60-4d15d|60,4d15d]] ff. At the very least, this difference must 
+ be terminologically clarified by coordinating the expression 
+ "decision unity" with the expression "unity of 
+ action" and distinguishing both from the purely objective 
+ effect unity that is not to be judged according to 
+ intended meaning. 
 
- Die beiden Einheitsbegriffe unterscheiden sich 
- im übrigen grundlegend dadurch, dass die Wirkungseinheit 
- problematische Aufgegebenheit ist, während die Einheit der 
- Handlung gerade vom Ausgangspunkt der pragmatischen 
- Problematisierung her definiert, also in ihre Einheitlichkeit [[Fortsetzung des Textes auf Zettel 1-6f1B5|]]
+ The two unity concepts differ 
+ fundamentally in that effect unity 
+ is a problematic task assigned, while the unity of 
+ action is defined precisely from the starting point of pragmatic 
+ problematization, thus in its unity [[Continuation of text on slip 1-6f1B5|]]
 
 ---
 ## Navigation

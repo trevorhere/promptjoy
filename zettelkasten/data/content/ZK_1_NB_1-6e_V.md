@@ -1,20 +1,19 @@
-
 # ZK I Zettel 1,6e
 
-## 1,6e Die Einheit des Staates, verstanden als Wirkverbun - 
- denheit, hat relationalen Charakter . Ihr liegt 
- kein reales Wesen, keine Substanz zu Grunde, die notgedrungen mehr 
- oder weniger dinglich zu denken wäre. Sie ist kein 
- zusätzliches Gebilde von gleicher Art wie die Individuen, keine 
- Wiederholung der Einheit des Individuums auf einer 
- höheren Stufe, sondern sie liegt in den Beziehungen 
- der zu vereinheitlichenden Individuen zueinander. 
- vgl. auch [[Bibliography/cohen_1931_reason|Cohen, R and N, S. 390]] : "All are agreed that 
+## 1,6e The unity of the state, understood as effective 
+ interconnection, has a relational character. It is not based 
+ on any real essence, any substance that would necessarily have to be 
+ conceived more or less as a thing. It is not 
+ an additional entity of the same kind as individuals, not 
+ a repetition of the unity of the individual at a 
+ higher level, but rather lies in the relations 
+ of the individuals to be unified among themselves. 
+ cf. also [[Bibliography/cohen_1931_reason|Cohen, R and N, S. 390]]: "All are agreed that 
  groups are characterized by some kind of unity, 
  and the fundamental issue is whether this unity 
  shall be viewed as an entity additional to the 
  entities unified and of the same kind, or 
- whether it shall be viewed for what it is, as just [[Fortsetzung des Textes auf Zettel 1-6e1|]]
+ whether it shall be viewed for what it is, as just [[Continuation of text on slip 1-6e1|]]
 
 ---
 ## Navigation

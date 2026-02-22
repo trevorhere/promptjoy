@@ -1,10 +1,9 @@
-
 # ZK I Zettel 1,3
 
-## 1,3 Grenzen der Vereinheitlichung 
+## 1,3 Limits of unification 
 
- "Zu gründlicher Einheit gehört, dass man sie 
- aus der Tiefe und in die Tiefe wachsen lässt". 
+ "For thorough unity, one must let it 
+ grow from the depths and into the depths." 
 
  [[Bibliography/wiora_1952_volksgesang|Walter Wiora, Europäischer Volksgesang,Gemeinsame Formen in charakteristischenAbwandlungen, Köln o.J.]]
 

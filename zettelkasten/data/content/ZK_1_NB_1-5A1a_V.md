@@ -1,26 +1,25 @@
-
 # ZK I Zettel 1,5A1a
 
 ## 1,5A1a [Rousseau](/bestand/register/personenregister/item/rousseau_jean-jacques) [[17-3g2a|17,3g2a]] 
 
- [[Bibliography/lindsay_1947_state|Lindsay, S. 130ff.]] unterscheidet drei Gesichtspunkte des volonté 
- générale, die [[Bibliography/rousseau_1964_contrat|Rousseau]] nicht sondert, und auf deren Vermengung 
- seine Wirkung beruhe. 
+ [[Bibliography/lindsay_1947_state|Lindsay, S. 130ff.]] distinguishes three aspects of the volonté 
+ générale, which [[Bibliography/rousseau_1964_contrat|Rousseau]] does not separate, and on whose conflation 
+ his influence rests. 
 
  
 
- 1.) Alle einzelnen Willen – das läuft auf die primitive 
- Consenttheorie der Einstimmigkeit hinaus. 
+ 1.) All individual wills – this amounts to the primitive 
+ consent theory of unanimity. 
 
- 2.) Der Wille, der sich auf das allg. Gute richtet, d.h. vom 
- Ziel her bestimmt ist. Die Unterscheidung des bes. [besonderen [NL-Archiv]] und des 
- allg. [allgemeinen [NL-Archiv]] Willen wird dann gleichgesetzt mit speziellem 
- und allg. Interesse. 
- Dies allg. [allgemeine [NL-Archiv]] Gute ist erkennbar, wenn die Menschen nur auf - 
- richtig sind. Wie aber in der Praxis das allg. [allgemeine [NL-Archiv]] Gute erkennbar 
- wird, diese Frage löst [[Bibliography/rousseau_1964_contrat|Rousseau]] nicht. Insb. behauptet er nicht: 
- im Parlament oder durch Mehrheitsabstimmung. Das sind 
- spätere Simplifizierungen. [[Fortsetzung des Textes auf Zettel 1-5A1a1|]]
+ 2.) The will that is directed toward the general good, i.e., is 
+ determined by the goal. The distinction between particular [besonderen [NL-Archiv]] and 
+ general [allgemeinen [NL-Archiv]] will is then equated with special 
+ and general interest. 
+ This general [allgemeine [NL-Archiv]] good is recognizable if only people are 
+ sincere. But how the general [allgemeine [NL-Archiv]] good becomes recognizable 
+ in practice – this question [[Bibliography/rousseau_1964_contrat|Rousseau]] does not solve. In particular, he does not claim: 
+ in parliament or through majority vote. These are 
+ later simplifications. [[Fortsetzung des Textes auf Zettel 1-5A1a1|]]
 
 ---
 ## Navigation

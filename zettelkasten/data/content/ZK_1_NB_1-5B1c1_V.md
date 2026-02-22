@@ -1,11 +1,10 @@
-
 # ZK I Zettel 1,5B1c1
 
-## 1,5B1c1 [[1-5B1c|1]] Mit allen seinen Mängeln; vgl. z.B. [[Bibliography/hobbes_1949_leviathan|II 18a.E., S. 96wo Hobbes]] gegenüber dem Einwand, dass der einzelne der Willkür 
- des Souveräns ausgesetzt sei, auf die Ordnungsleistung des 
- Staates und die Trostlosigkeit des Naturzustandes verweist. 
- Aus demselben Grunde kann der Staat kein Unrecht 
- tun ( [[Bibliography/hobbes_1949_leviathan|II. 18, S. 92]] , vgl. [[12-5f2a|12,5f2a]] ).
+## 1,5B1c1 [[1-5B1c|1]] With all its deficiencies; cf. e.g. [[Bibliography/hobbes_1949_leviathan|II 18a.E., S. 96where Hobbes]] , in response to the objection that the individual is exposed to the arbitrariness 
+ of the sovereign, refers to the ordering function of the 
+ state and the bleakness of the state of nature. 
+ For the same reason the state can do no wrong 
+ ( [[Bibliography/hobbes_1949_leviathan|II. 18, S. 92]] , cf. [[12-5f2a|12,5f2a]] ).
 
 ---
 ## Navigation

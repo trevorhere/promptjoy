@@ -1,23 +1,22 @@
-
 # ZK I Zettel 1,5
 
-## 1,5 Kritik der bisherigen Lösungen 
+## 1,5 Critique of previous solutions 
 
  
 
- Entweder: Verdeckung des Einheitsproblems durch rationale 
- Begriffe wie Repräsentation, Identität, die auf eine 
- Fiktion der Einheit hinauslaufen. [[1-5A|A]] 
+ Either: Concealment of the problem of unity through rational 
+ concepts like representation, identity, which amount to 
+ a fiction of unity. [[1-5A|A]] 
 
- oder: einseitige (eindimensionale) Erklärungsversuche 
- z.B. Angsttheorie ( [Hobbes](/bestand/register/personenregister/item/hobbes_thomas) ), Consenttheorie ( [Rousseau](/bestand/register/personenregister/item/rousseau_jean-jacques) ) 
- [[1-5B|B]] , Gewohnheit ( [Sir Henry Maine](/bestand/register/personenregister/item/maine_henry) ), Nützlichkeit 
- ( [Bentham](/bestand/register/personenregister/item/bentham_jeremy) ), wohlwollende Förderung (aufgeklärter 
- Absolutismus). 
+ or: one-sided (one-dimensional) attempts at explanation 
+ e.g. fear theory ( [Hobbes](/bestand/register/personenregister/item/hobbes_thomas) ), consent theory ( [Rousseau](/bestand/register/personenregister/item/rousseau_jean-jacques) ) 
+ [[1-5B|B]] , habit ( [Sir Henry Maine](/bestand/register/personenregister/item/maine_henry) ), utility 
+ ( [Bentham](/bestand/register/personenregister/item/bentham_jeremy) ), benevolent promotion (enlightened 
+ absolutism). 
 
- oder: einseitige Festlegung auf einen einzigen Einheits - 
- typ, z.B. System ( [Kelsen](/bestand/register/personenregister/item/kelsen_hans) ), Wirkungseinheit ( [Heller](/bestand/register/personenregister/item/heller_hermann) ) 
- Gleichheit (englische Staatslehre, etwa [Finer](/bestand/register/personenregister/item/finer_herman) ).
+ or: one-sided fixation on a single type of unity, 
+ e.g. system ( [Kelsen](/bestand/register/personenregister/item/kelsen_hans) ), effective unity ( [Heller](/bestand/register/personenregister/item/heller_hermann) ) 
+ equality (English political theory, e.g. [Finer](/bestand/register/personenregister/item/finer_herman) ).
 
 ---
 ## Navigation

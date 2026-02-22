@@ -1,25 +1,23 @@
-
 # ZK I Zettel 1,5A4
 
 ## 1,5A4 
 
- Die Volkswillenlehre ist im Zusammenhang zu 
- setzen mit der Grundbestimmung des Staates durch 
- Herrschaft. Dazu vgl. [[21-10d|21,10d]] 
+ The doctrine of the will of the people is to be placed in 
+ connection with the fundamental definition of the state through 
+ domination. On this cf. [[21-10d|21,10d]] 
 
- Aus diesem Bezug erwachsen die Probleme dieser Lehre und 
- ihre verschiedenen Lösungsmöglichkeiten. 
+ From this connection arise the problems of this doctrine and 
+ its various solution possibilities. 
 
- Im Prinzip muss sie das Volk als herrschende Einheit – und 
- insofern: als Willenseinheit – ansehen. Ohne diesen 
- Bezug auf den herrschaftlich organisierten Staat wäre gar 
- nicht einzusehen, warum die Einheit des Volkes gerade 
- im Willen gefunden werden muss. 
+ In principle, it must view the people as a ruling unity – and 
+ in this respect: as a unity of will. Without this 
+ reference to the state organized through domination, it would not 
+ be apparent at all why the unity of the people must be found 
+ precisely in the will. 
 
- Das erklärt ferner, warum das Volk als Staatsorgan be - 
- handelt wird (z.B. [[Bibliography/jellinek_1922_staatslehre|Jellinek, Allg. Staatslehre]] ) und 
- damit sozusagen als Herrschaftsträger institutionalisiert 
- wird.
+ This further explains why the people are treated as a state organ 
+ (e.g. [[Bibliography/jellinek_1922_staatslehre|Jellinek, Allg. Staatslehre]] ) and 
+ thereby so to speak institutionalized as a bearer of domination.
 
 ---
 ## Navigation

@@ -1,21 +1,20 @@
-
 # ZK I Zettel 1,6f1B1
 
-## 1,6f1B1 Mit dem Gedanken der Entscheidungs- und 
- Wirkungseinheit hat vor allem [[Bibliography/heller_1934_staatslehre|Heller, Staatslehre, S.228ff.]] die staatliche Einheit zu erklären versucht. 
- z.B. [[Bibliography/heller_1934_staatslehre|S. 231]] : "Dadurch, dass Mitglieder und Organe aufgrund 
- einer Ordnung zu einem einheitlichen Effekt zusammen - 
- wirken, kommt die wirkliche Einheit der Organisation 
- als Wirkungseinheit zustande." 
+## 1,6f1B1 With the idea of decision and 
+ effect unity, [[Bibliography/heller_1934_staatslehre|Heller, Staatslehre, S.228ff.]] has above all attempted to explain state unity. 
+ e.g. [[Bibliography/heller_1934_staatslehre|S. 231]]: "By virtue of members and organs working 
+ together on the basis of an order toward a unified effect, 
+ the real unity of the organization 
+ as effect unity comes about." 
 
- Damit ist zweifellos ein wichtiges Moment staatlich - 
- organisatorischer Einheitsbildung gesehen, aber es allein 
- reicht bei weitem nicht hin, um die staatliche Einheit 
- zu erklären. Schon die oberflächlichste Überlegung zeigt, 
- dass der Staat sehr viele Entscheidungen trifft, sehr viele 
- Wirkungen bewirkt, die ganz unabhängig voneinander 
- bestehen, sich nicht selten sogar widersprechen. Wenn man 
- die Einheit des Staates nach dem Muster einer Feuerlöschaktion [[Fortsetzung des Textes auf Zettel 1-6f1B2|]]
+ This undoubtedly identifies an important moment of state- 
+ organizational unity formation, but it alone 
+ is far from sufficient to explain state unity. 
+ Even the most superficial reflection shows 
+ that the state makes very many decisions, brings about 
+ very many effects that exist quite independently of one another, 
+ not infrequently even contradicting each other. If one were to view 
+ the unity of the state on the model of a firefighting action [[Continuation of text on slip 1-6f1B2|]]
 
 ---
 ## Navigation

@@ -1,4 +1,3 @@
-
 # ZK I Zettel 1,5B2c
 
 ## 1,5B2c legislative constituted by them, can never 

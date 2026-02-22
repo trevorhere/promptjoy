@@ -1,27 +1,26 @@
-
 # ZK I Zettel 1,2
 
-## 1,2 Dem Nationalismus erscheint das Problem der Einheit 
- als Problem der Gleichheit , Einheit durch Einebnung , Uni - 
- formierung. 
- Typisch dafür [[Bibliography/finer_1947_zukunft|Finer, Die Zukunft der Staatsform, S. 169ff.insb. 185ff.]] ; ferner [[Bibliography/finer_1945_theory|Am. Pol. Sc. Rev. XXXIX (1945), S. 249ff.]] : 
+## 1,2 For nationalism, the problem of unity appears 
+ as the problem of equality, unity through leveling, uni- 
+ formity. 
+ Typical of this [[Bibliography/finer_1947_zukunft|Finer, Die Zukunft der Staatsform, S. 169ff.insb. 185ff.]] ; furthermore [[Bibliography/finer_1945_theory|Am. Pol. Sc. Rev. XXXIX (1945), S. 249ff.]] : 
 
  
 
- 1.) Wenn die gleiche Weltanschauung für alle möglich wäre, 
- wäre das Problem gelöst. Da das unmöglich ist, Forde - 
- rung der Toleranz und Demokratie als die relativ ak - 
- zeptabelste Weltanschauung dadurch, dass sie gleichzeitig 
- die formalste und inhaltsärmste ist. 
+ 1.) If the same worldview were possible for all, 
+ the problem would be solved. Since that is impossible, demand 
+ for tolerance and democracy as the relatively most ac- 
+ ceptable worldview precisely because it is 
+ the most formal and least substantive. 
 
- 2.) [Marx](/bestand/register/personenregister/item/marx_karl) : Wenn alle gleich ökonomisch situiert wären, 
- wäre das Problem gelöst. Das lässt sich praktisch 
- anstreben und erreichen. Der Staat wird dann von 
- selbst gleich wegfallen. 
+ 2.) [Marx](/bestand/register/personenregister/item/marx_karl) : If all were equally economically situated, 
+ the problem would be solved. This can be practically 
+ striven for and achieved. The state will then 
+ simply wither away on its own. 
 
- In beiden Fällen ist der Ruf nach Gleichheit verkappter 
- Ruf nach Reichtum; vgl. [[Bibliography/finer_1947_zukunft|Finer, S.186]] . 
- Diese Gleichheitsauffassung ist eine Quantifizierung (?) [[Fortsetzung des Textes auf Zettel 1-2a|]]
+ In both cases, the call for equality is a disguised 
+ call for wealth; cf. [[Bibliography/finer_1947_zukunft|Finer, S.186]] . 
+ This conception of equality is a quantification (?) [[Fortsetzung des Textes auf Zettel 1-2a|]]
 
 ---
 ## Navigation

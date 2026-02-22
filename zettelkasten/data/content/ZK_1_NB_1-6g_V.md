@@ -1,19 +1,18 @@
-
 # ZK I Zettel 1,6g
 
-## 1,6g Einheit des Staates ist reale Einheit (und 
- deshalb notwendig: unvollkommene Einheit). 
+## 1,6g Unity of the state is real unity (and 
+ therefore necessarily: imperfect unity). 
 
- Die Einheit des Staates ist keine Fiktion, auch 
- nicht rein nominalistisch zu verstehen. (vgl. dazu [Heller](/bestand/register/personenregister/item/heller_hermann) ) 
+ The unity of the state is not a fiction, nor 
+ to be understood purely nominalistically. (cf. on this [Heller](/bestand/register/personenregister/item/heller_hermann)) 
 
- Daher stellt sich bei allen Einheitsbildungen 
- (die [[1-6f|1,6f]] behandelt) die Frage des Verhältnis zu den 
- divergierenden gesellschaftlichen Kräften. 
+ Therefore, in all unity formations 
+ (which [[1-6f|1,6f]] treats) the question arises of the relationship to the 
+ diverging social forces. 
 
- Alle reale Wirkungseinheit ist partiell, weil die 
- polarisierende Einheitsquelle immer durch Gegenkräfte 
- gehemmt ist – vgl. auch [[21-7|21,7]] ; [[1-6f1|1,6f1]] .
+ All real effect unity is partial, because the 
+ polarizing source of unity is always inhibited by counter-forces 
+ – cf. also [[21-7|21,7]]; [[1-6f1|1,6f1]].
 
 ---
 ## Navigation

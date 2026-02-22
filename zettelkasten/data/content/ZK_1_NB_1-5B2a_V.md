@@ -1,4 +1,3 @@
-
 # ZK I Zettel 1,5B2a
 
 ## 1,5B2a of every individual, made a community, they 
@@ -11,10 +10,10 @@
  should move that way whither the greater force 
  carries it, which is the consent of the majority. …" 
 
- Die Einheit des Staates folgt aus dem einstimmigen 
- Staatsvertrag; die Einheit des staatlichen Handelns wird 
- durch das darin vereinbarte, weil vernünftige, Mehrheits - 
- prinzip gesichert.
+ The unity of the state follows from the unanimous 
+ social contract; the unity of state action is 
+ secured through the thereby agreed upon, because rational, majority 
+ principle.
 
 ---
 ## Navigation

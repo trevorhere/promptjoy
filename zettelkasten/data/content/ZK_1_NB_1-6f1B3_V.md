@@ -1,19 +1,18 @@
-
 # ZK I Zettel 1,6f1B3
 
-## 1,6f1B3 Vgl. im übrigen zur Kritik an [Heller](/bestand/register/personenregister/item/heller_hermann) s einseitigem 
- Standpunkt [[83-2c1a1|83,2c1a1]] . 
+## 1,6f1B3 Cf. moreover on the critique of [Heller](/bestand/register/personenregister/item/heller_hermann)'s one-sided 
+ standpoint [[83-2c1a1|83,2c1a1]]. 
 
- Gegen Beschränkung der Einheitsproblematik auf 
- die aktuelle Einheit des wirkenden Handelns spricht auch, 
- dass dann nachts, wenn die Beamten schlafen, kein Staat 
- mehr da ist, bzw. der Staat dann nur noch aus dem 
- Herumlaufen einiger Nachtwächter besteht. 
+ Against restricting the unity problematic to 
+ the actual unity of effective action also speaks the fact 
+ that then at night, when the officials are sleeping, there would be no state 
+ anymore, or the state would then consist only of 
+ a few night watchmen walking around. 
 
- Vgl. z.B. die Schwierigkeiten, in die [[Bibliography/smith_1945_situation|M. Smith (1), S. 227f.]] 
- auf dieser Bahn gerät. Er nimmt zur Aushilfe 
- einen Verband (group) von vermindertem Wirklichkeitsgehalt, 
- als blosse Aktionstendenz an, als Potential.
+ Cf. e.g. the difficulties that [[Bibliography/smith_1945_situation|M. Smith (1), S. 227f.]] 
+ encounters on this path. As an expedient, he assumes 
+ an association (group) of diminished reality content, 
+ as a mere tendency to action, as a potential.
 
 ---
 ## Navigation

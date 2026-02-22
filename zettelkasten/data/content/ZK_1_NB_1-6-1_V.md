@@ -1,18 +1,16 @@
-
 # ZK I Zettel 1,6,1
 
-## 1,6,1 [[1-6|1]] "Es sieht überhaupt so aus, als ob der Staat 
- den monistischen Idealtyp von Einheitsstruktur, 
- dem er bisher gehuldigt hat, nicht wird behaupten 
- können, sondern dass er seine Einheit in sehr viel 
- komplizierteren Strukturen zu bewirken haben 
- wird." 
+## 1,6,1 [[1-6|1]] "It appears altogether as if the state 
+ will not be able to maintain the monistic ideal type of unity structure 
+ to which it has previously paid homage, 
+ but rather will have to effect its unity in much 
+ more complicated structures." 
  [[Bibliography/krueger_1952_bundeswirtschaftsrat|Herbert Krüger, "Der Bundeswirtschaftsrat inverfassungspolitischer Sicht", DÖV 52, S. 545ff.(554)]] 
  
 
- Der tiefere Grund dafür ist, dass Einheiten sich der Analyse 
- notwendig entziehen. Jede Reflexion auf Einheit bleibt 
- gefangen in den vorher eingeführten Unterscheidungen.
+ The deeper reason for this is that unities necessarily escape analysis. 
+ Every reflection on unity remains 
+ trapped in the distinctions previously introduced.
 
 ---
 ## Navigation

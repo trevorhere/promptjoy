@@ -1,13 +1,12 @@
-
 # ZK I Zettel 1,2c
 
-## 1,2c Die Einheit in der Gleichheit ist wohl der älteste 
- bekannte Einheitstypus. 
+## 1,2c Unity in equality is probably the oldest 
+ known type of unity. 
 
- Sie ist abstraktive Einheit. Man sieht demge - 
- mäss die soziale Einheit als Abstraktion aus wesentlich 
- gleichen Individuen mit gleichem Wollen und gleichem 
- Handeln an.
+ It is abstractive unity. One accordingly 
+ views social unity as an abstraction from essentially 
+ equal individuals with equal will and equal 
+ action.
 
 ---
 ## Navigation

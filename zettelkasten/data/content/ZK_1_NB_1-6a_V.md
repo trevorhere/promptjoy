@@ -1,17 +1,16 @@
-
 # ZK I Zettel 1,6a
 
-## 1,6a Parallele in der Psychologie 
+## 1,6a Parallel in psychology 
 
- Ohne Formalisierung und Funktionalisierung 
- der psychischen Phänomene geht die Einheit der 
- Seele verloren. 
+ Without formalization and functionalization 
+ of psychic phenomena, the unity of the 
+ soul is lost. 
 
- vgl. dazu [[Bibliography/mannheim_1952_ideologie|Mannheim, Ideologie und Utopie, S. 16ff.insb. S. 22]] 
+ cf. on this [[Bibliography/mannheim_1952_ideologie|Mannheim, Ideologie und Utopie, S. 16ff.insb. S. 22]] 
 
- Parallele hat jedoch ihre Grenzen, denn die 
- Einheit des Staates lässt sich eher noch "herstellen" als 
- die Einheit der Seele. Sie ist eine geistige Einheit.
+ The parallel has its limits, however, for the 
+ unity of the state can still be "produced" more easily than 
+ the unity of the soul. It is a spiritual unity.
 
 ---
 ## Navigation

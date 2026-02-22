@@ -1,22 +1,21 @@
-
 # ZK I Zettel 1,5A2b
 
 ## 1,5A2b group which determines the behavior of that [ S. 5 ] 
  group, no individual member of the group should 
  attempt to resist the collective imperatives." 
 
- Darin kommt das Wesentliche schon fast zum 
- Ausdruck: dass nämlich der Gruppengeist-Begriff 
- ideologieanfällig ist, ja selbst ideologisch ist, weil 
- er keine eindeutigen Urteile ermöglicht, von denen fest - 
- stellbar wäre, dass ob sie wahr oder falsch sind, und weil 
- er deshalb zu jeden beliebigen und zu in sich wider - 
- spruchsvollen Folgerungen Anlass geben kann. 
+ This almost captures the essential point: 
+ namely that the group-spirit concept 
+ is susceptible to ideology, indeed is itself ideological, because 
+ it does not enable unambiguous judgments from which it would be ascertain- 
+ able whether they are true or false, and because 
+ it can therefore give rise to any arbitrary and internally contra- 
+ dictory conclusions. 
 
- Mit solchen Begriffen kann man nur operieren, 
- wenn eine eindeutige, harmonische Welt als selbstver - 
- ständlich vorausgesetzt ist, so dass von da her bereits 
- eine wahre Weisung vorliege, welche der logisch gleich [[Fortsetzung des Textes auf Zettel 1-5A2c|]]
+ One can only operate with such concepts 
+ when a unambiguous, harmonious world is presupposed 
+ as self-evident, so that from there a 
+ true directive already exists, indicating which of the logically equally [[Fortsetzung des Textes auf Zettel 1-5A2c|]]
 
 ---
 ## Navigation

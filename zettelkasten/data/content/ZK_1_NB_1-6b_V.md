@@ -1,12 +1,11 @@
-
 # ZK I Zettel 1,6b
 
-## 1,6b Über den Ausweg mit Hilfe der [Hartmann](/bestand/register/personenregister/item/hartmann_nicolai) ' 
- schen Lehre vom objektiven Geist, den anscheinend 
- [[Bibliography/scheuner_1952_regierung|Scheuner]] [[1-5c|1,5c]] benutzt hat, siehe [[28-3|28,3]] ff. 
+## 1,6b On the way out using [Hartmann](/bestand/register/personenregister/item/hartmann_nicolai)'s 
+ doctrine of objective spirit, which apparently 
+ [[Bibliography/scheuner_1952_regierung|Scheuner]] [[1-5c|1,5c]] has employed, see [[28-3|28,3]] ff. 
 
- Übrigens sieht [Hartmann](/bestand/register/personenregister/item/hartmann_nicolai) selbst diese Möglichkeit 
- nicht, denn er begreift den Staat vielschichtig; vgl. [[28-2|28,2]]
+ Incidentally, [Hartmann](/bestand/register/personenregister/item/hartmann_nicolai) himself does not see this possibility, 
+ for he conceives the state as multi-layered; cf. [[28-2|28,2]]
 
 ---
 ## Navigation

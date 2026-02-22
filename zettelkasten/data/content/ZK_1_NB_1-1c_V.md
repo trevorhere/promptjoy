@@ -1,21 +1,20 @@
-
 # ZK I Zettel 1,1c
 
-## 1,1c elementares Orientierungsschema, das Situation 
- wie auch Welt ordnet und sogar bis in die geschlossene, 
- noch nicht absurde Welt zurückreicht. Es wird freilich 
- durch die Problemorientierung der Welt und der Einheit 
- grundlegend verändert. Genau dasselbe lässt sich, 
- wenn man vom Erkennen zur Kunst überwechselt, 
- von der Stileinheit sagen. Vielleicht lässt sich auch 
- behaupten, dass Gleichheit und Stil als "durchgehende" 
- Einheitstypen Welt und Situation zusammenhalten; 
- ohne sie würde die systematische Welterkenntnis 
- und das zweckvolle Situationshandeln unverbunden 
- auseinanderfallen. Vgl. [[17-1b9a1|17,1b9a1]] 
+## 1,1c elementary orientation schema that orders both situation 
+ and world, and even extends back into the closed, 
+ not yet absurd world. It is, of course, 
+ fundamentally transformed by the problem-orientation of the world and of unity. 
+ Exactly the same can be said, 
+ if one shifts from cognition to art, 
+ of stylistic unity. Perhaps one can also 
+ claim that equality and style as "pervasive" 
+ types of unity hold world and situation together; 
+ without them, systematic world-cognition 
+ and purposive situational action would fall apart unconnected. 
+ Cf. [[17-1b9a1|17,1b9a1]] 
 
- Mit all dem ist aber das gemeinsame Prinzip 
- dieser vier Einheitstypen noch nicht verstanden.
+ With all this, however, the common principle 
+ of these four types of unity is not yet understood.
 
 ---
 ## Navigation

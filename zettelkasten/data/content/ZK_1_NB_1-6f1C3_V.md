@@ -1,24 +1,23 @@
-
 # ZK I Zettel 1,6f1C3
 
-## 1,6f1C3 ebenso wie die von ihr vorausgesetzte Entschiedenheit 
- und Wirksamkeit der Ordnung ermöglicht." 
+## 1,6f1C3 as well as the decisiveness 
+ and effectiveness of the order it presupposes, possible." 
 
- Darin liegen immerhin schon Ansätze zu einer 
- Erkenntnis, dass es neben der Entscheidungs- und Wirkungs - 
- einheit noch eine weitere, sie als dauernde Einrichtung 
- erst ermöglichende Einheit des Gefüges der Leistungsanordnung 
- oder – wie ich dafür sage, der Organisation gibt. 
+ Therein lie at least beginnings of a 
+ recognition that besides decision and effect 
+ unity there is yet another unity of the structure of performance arrangement 
+ that first makes them possible as a lasting institution 
+ – or as I say, of the organization. 
 
- Vgl. ferner [[Bibliography/heller_1934_staatslehre|Heller, S. 263ff.]] , wo er die historische 
- und die systematische Kontinuität der Rechtsverfassung unter - 
- scheidet, was – aufs Organisatorische begrenzt – etwa meiner 
- Unterscheidung von [[1-6f1C|1,6f1C]] und [[1-6f1D|1,6f1D]] , von Aufbau-Einheit und 
- Dauer-Einheit entspricht. 
+ Cf. further [[Bibliography/heller_1934_staatslehre|Heller, S. 263ff.]], where he distinguishes the historical 
+ and the systematic continuity of the legal constitution, 
+ which – limited to the organizational – corresponds approximately to my 
+ distinction between [[1-6f1C|1,6f1C]] and [[1-6f1D|1,6f1D]], between structural unity and 
+ durational unity. 
  
 
- Vgl. über die Rolle der geschriebenen Verfassung als Einheitsdoku - 
- ment [[27-4|27,4]] .
+ Cf. on the role of the written constitution as unity document 
+ [[27-4|27,4]].
 
 ---
 ## Navigation

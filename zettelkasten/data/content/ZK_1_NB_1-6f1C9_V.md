@@ -1,25 +1,24 @@
-
 # ZK I Zettel 1,6f1C9
 
 ## 1,6f1C9 
 
- Konzession an anthropomorphistische Denkgewohn - 
- heiten" (so [[Bibliography/marck_1925_rechtsphilosophie|Marck, S. 24]] ), sondern letztlich ist überhaupt unver - 
- ständlich, aus welchen rechtstechnischen Gründen die Gesamt - 
- rechtsordnung personifiziert werden sollte. Personifikation hat 
- nur Sinn für Teilkomplexe innerhalb eines Systems, nämlich 
- um einen Anknüpfungspunkt ( [Kelsen](/bestand/register/personenregister/item/kelsen_hans) : Zurechnungspunkt) 
- für systemkonforme Relationen zu geben. Das Gesamtsystem 
- kann logisch nur nach aussen Beziehungen haben, und diese 
- Beziehungen sind dann systemfremd, hier: nicht rechtlich. 
- Wenn das System zu seinen eigenen Teilkomplexen in einer 
- Rechtsbeziehung stünde, so müsste das eine neue Rechtsbeziehung 
- ausserhalb des Systems sein, und damit wäre das System 
- schon nicht mehr die Gesamtrechtsordnung. Vgl. auch [[9-3c1b|9,3c1b]] . 
+ concession to anthropomorphistic habits of thought" 
+ (so [[Bibliography/marck_1925_rechtsphilosophie|Marck, S. 24]]), but ultimately it is completely incompre- 
+ hensible for what legal-technical reasons the total 
+ legal order should be personified. Personification has 
+ meaning only for partial complexes within a system, namely 
+ to give a point of connection ([Kelsen](/bestand/register/personenregister/item/kelsen_hans): point of imputation) 
+ for system-conforming relations. The total system 
+ can logically only have relations to the outside, and these 
+ relations are then foreign to the system, here: not legal. 
+ If the system stood in a legal relation to its own partial complexes, 
+ that would have to be a new legal relation 
+ outside the system, and thus the system 
+ would already no longer be the total legal order. Cf. also [[9-3c1b|9,3c1b]]. 
 
- b.) Wichtiger und weiterführend der andere, freilich mehr gelegent - 
- lich auftauchende Gedanke, den Staat als regulative Idee 
- der Rechtsordnung anzusehen, Idee im strengen [[Fortsetzung des Textes auf Zettel 1-6f1C10|]]
+ b.) More important and leading further is the other, admittedly more occasional- 
+ ly emerging thought, to view the state as a regulative idea 
+ of the legal order, idea in the strict [[Continuation of text on slip 1-6f1C10|]]
 
 ---
 ## Navigation

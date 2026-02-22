@@ -1,17 +1,16 @@
-
 # ZK I Zettel 1,5A1b
 
 ## 1,5A1b [Bosanquet](/bestand/register/personenregister/item/bosanquet_bernard) 
 
- vgl. [[Bibliography/bosanquet_1895_reality|The Reality of the General Will, in "Aspects of theSocial Problem"]] 
- über [Bosanquet](/bestand/register/personenregister/item/bosanquet_bernard) s Theorie [[Bibliography/lindsay_1947_state|Lindsay, S. 243ff.]] 
- Einfluss [Rousseau](/bestand/register/personenregister/item/rousseau_jean-jacques) s und [Hegel](/bestand/register/personenregister/item/hegel_georg-wilhelm-friedrich) s. 
+ cf. [[Bibliography/bosanquet_1895_reality|The Reality of the General Will, in "Aspects of theSocial Problem"]] 
+ on [Bosanquet](/bestand/register/personenregister/item/bosanquet_bernard)'s theory [[Bibliography/lindsay_1947_state|Lindsay, S. 243ff.]] 
+ Influence of [Rousseau](/bestand/register/personenregister/item/rousseau_jean-jacques) and [Hegel](/bestand/register/personenregister/item/hegel_georg-wilhelm-friedrich). 
 
- [[Bibliography/bosanquet_1895_reality|Bosanquet]] bezeichnet den general will als "working system 
- of dominant ideas". Schon das zeigt, dass es eigentlich kein Wille ist. 
+ [[Bibliography/bosanquet_1895_reality|Bosanquet]] describes the general will as a "working system 
+ of dominant ideas." This already shows that it is not really a will. 
 
- Der Wille ist weitgehend unbewusst und bedarf der 
- Interpretation.
+ The will is largely unconscious and requires 
+ interpretation.
 
 ---
 ## Navigation

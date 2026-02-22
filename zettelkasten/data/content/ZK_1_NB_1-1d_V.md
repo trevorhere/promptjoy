@@ -1,9 +1,8 @@
-
 # ZK I Zettel 1,1d
 
-## 1,1d Zum Zusammenhang Relevanzschema und seine 
- Einheitsleistung vgl. grundsätzlich [[57-4e7b1ca|57,4e7b1ca]] ff.; 
- ferner [[12-5a18|12,5a18]] .
+## 1,1d On the connection between schema of relevance and its 
+ achievement of unity cf. fundamentally [[57-4e7b1ca|57,4e7b1ca]] ff.; 
+ furthermore [[12-5a18|12,5a18]] .
 
 ---
 ## Navigation

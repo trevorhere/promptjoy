@@ -1,22 +1,21 @@
-
 # ZK I Zettel 1,6c1
 
 ## 1,6c1 di un attività, ad un tempo, centrale 
  e centralizzatrice." 
  
 
- In manchem vergleichbar die Auffassung von [[Bibliography/follett_1940_psychology|Mary ParkerFollett, Dynamic Administration, S. 183ff., z.B. S.195]] : "Unity 
+ In some respects comparable is the view of [[Bibliography/follett_1940_psychology|Mary ParkerFollett, Dynamic Administration, S. 183ff., z.B. S.195]] : "Unity 
  is always a process, not a product." 
 
- Dabei verwechselt sie allerdings unity und unifying, und 
- sagt unten ganz richtig [[Bibliography/follett_1940_psychology|(S. 195)]] : "Business unifying must 
+ In doing so, she admittedly confuses unity and unifying, and 
+ says below quite correctly [[Bibliography/follett_1940_psychology|(S. 195)]] : "Business unifying must 
  be understood as a process, not as a product." 
 
- Abgesehen davon, dass das Wort Einheit natürlich keinen 
- Vorgang bezeichnen kann, ist diese dynamische Auffassung 
- wertvoll und kennzeichnet den organisatorischen Blick, 
- der von der fertig fingierten Einheit zum Vereinheitlichungs - 
- prozess überwechselt.
+ Apart from the fact that the word unity naturally cannot designate 
+ a process, this dynamic conception 
+ is valuable and characterizes the organizational view 
+ that shifts from the finished feigned unity to the unification- 
+ process.
 
 ---
 ## Navigation

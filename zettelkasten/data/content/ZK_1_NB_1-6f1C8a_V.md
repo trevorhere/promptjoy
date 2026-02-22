@@ -1,13 +1,12 @@
-
 # ZK I Zettel 1,6f1C8a
 
-## 1,6f1C8a [[1-6f1C8|1]] Diese Voraussetzung ist keine ganz selbständige 
- gegenüber der Vorhergehenden. Das Recht kennt keine andere 
- Einheitsform als die des Systems. Denkt man die Einheitsform 
- des Staates ausschliesslich systematisch, so liegt es um dessent - 
- willen schon nahe, ihn mit der Rechtsordnung zu identifizieren, 
- weil anders das Verhältnis der beiden Systeme Staat und 
- Recht zueinander kaum überzeugend bestimmbar ist.
+## 1,6f1C8a [[1-6f1C8|1]] This assumption is not entirely independent 
+ of the preceding one. Law knows no other 
+ form of unity than that of the system. If one thinks the unity form 
+ of the state exclusively systematically, then for that reason 
+ it is already obvious to identify it with the legal order, 
+ because otherwise the relationship of the two systems, state and 
+ law, to each other can hardly be convincingly determined.
 
 ---
 ## Navigation

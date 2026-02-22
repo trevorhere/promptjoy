@@ -1,14 +1,13 @@
-
 # ZK I Zettel 1,2b
 
-## 1,2b Zur Einheitsform der Gleichheit vgl. auch 
- [[Bibliography/husserl_1948_erfahrung|Husserl, Erfahrung und Urteil, S. 388]] . Trotz der fehlenden 
- Identität, der bestehenden Zweiheit, behauptet [[Bibliography/husserl_1948_erfahrung|Husserl]] , 
- dass in jeder beliebigen Mannigfaltigkeit Gleicher wirklich 
- eine "Einigkeit und Selbigkeit im strengsten Sinne" 
- bestehe. "Sie tritt ursprünglich in der Synthesis der 
- Gleichheitsdeckung hervor, bzw. sie ist durch diese 
- ursprünglich als Gegenstand vorkonstituiert."
+## 1,2b On the form of unity as equality cf. also 
+ [[Bibliography/husserl_1948_erfahrung|Husserl, Erfahrung und Urteil, S. 388]] . Despite the lack of 
+ identity, the existing duality, [[Bibliography/husserl_1948_erfahrung|Husserl]] maintains 
+ that in any arbitrary manifold of equals there really 
+ exists a "unity and selfsameness in the strictest sense." 
+ "It emerges originally in the synthesis of 
+ congruence in equality, or rather, it is through this 
+ originally pre-constituted as an object."
 
 ---
 ## Navigation

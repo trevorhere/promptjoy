@@ -1,21 +1,19 @@
-
 # ZK I Zettel 1,6f2
 
-## 1,6f2 Wichtig ist diese Aufspaltung des Einheitsproblems 
- in Unterprobleme, die sich nach dem gesuchten Einheits - 
- typus unterscheiden vor allem darum, weil man nur 
- so die Frage richtig stellen kann, ob das einheitliche 
- Ganze mehr ist als die Summe seiner Teile. Diese 
- Frage kann überhaupt nur sinnvoll gestellt und 
- beantwortet werden, wenn man einen bestimmten 
- Einheitstypus zu Grunde legt. 
+## 1,6f2 Important is this splitting of the unity problem 
+ into sub-problems that differ according to the sought unity 
+ type, above all because only in this way can one correctly pose 
+ the question whether the unified whole is more than the sum 
+ of its parts. This question can only be meaningfully 
+ posed and answered if one takes a 
+ specific unity type as the basis. 
 
- Bei der Wirkungseinheit ist sie selbstverständlich zu 
- bejahen; bei der Systemeinheit kommt es darauf an, 
- was man unter Teil versteht. Richtigerweise sind die 
- Verknüpfungen und Beziehungen des Systemgewebes, nicht 
- die verbundenen Substanzen "Teil" des Systems, denn 
- letztere interessieren nur als Beziehungsendpunkte. Dann [[Fortsetzung des Textes auf Zettel 1-6f3|]]
+ For effect unity it is self-evidently to be 
+ affirmed; for system unity it depends on 
+ what one understands by part. Correctly understood, the 
+ connections and relations of the system fabric, not 
+ the connected substances, are "part" of the system, for 
+ the latter are of interest only as relation endpoints. Then [[Continuation of text on slip 1-6f3|]]
 
 ---
 ## Navigation

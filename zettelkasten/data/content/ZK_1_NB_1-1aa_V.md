@@ -1,8 +1,7 @@
-
 # ZK I Zettel 1,1aa
 
-## 1,1aa [[1-1a|1]] Speziell zu diesem Stil-Begriff und zu dieser Inter - 
- pretation der modernen Kunst vgl. [[Bibliography/camus_1951_homme|Camus, S. 313ff. (331ff.)]] .
+## 1,1aa [[1-1a|1]] Specifically on this concept of style and on this inter- 
+ pretation of modern art cf. [[Bibliography/camus_1951_homme|Camus, S. 313ff. (331ff.)]] .
 
 ---
 ## Navigation

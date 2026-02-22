@@ -1,22 +1,21 @@
-
 # ZK I Zettel 1,5A1c1
 
-## 1,5A1c1 die Germanisten ( [Beseler](/bestand/register/personenregister/item/beseler_georg) und namentlich sein 
- Schüler [Gierke](/bestand/register/personenregister/item/gierke_otto-friedrich-von) ) die Lehre auf alle menschlichen Verbände 
- (allerdings nicht auch auf alle business-associations) aus. 
+## 1,5A1c1 the Germanists ( [Beseler](/bestand/register/personenregister/item/beseler_georg) and especially his 
+ student [Gierke](/bestand/register/personenregister/item/gierke_otto-friedrich-von) ) extend the doctrine to all human associations 
+ (though not also to all business associations). 
 
- vgl. [[Bibliography/gierke_1902_wesen|Gierke, Vom Wesen der menschlichen Verbände]] . 
- ähnlich | [[Bibliography/figgis_1913_churches|Figgis, Churches in the modern State]][[Bibliography/laski_1916_personality|Laski, The Personality of Associations, Harvard LawReview 29 (1916), S. 404]] 
+ cf. [[Bibliography/gierke_1902_wesen|Gierke, Vom Wesen der menschlichen Verbände]] . 
+ similarly | [[Bibliography/figgis_1913_churches|Figgis, Churches in the modern State]][[Bibliography/laski_1916_personality|Laski, The Personality of Associations, Harvard LawReview 29 (1916), S. 404]] 
 
- Die These ist, dass Verbände reale Personalität haben. 
+ The thesis is that associations have real personality. 
 
- Vgl. dazu die Kritik von [[Bibliography/cohen_1931_reason|Cohen, R. and N., S. 388ff.]] Diese These 
- kann nur verfochten werden, wenn man im Dunkel lässt, 
- was man unter Personalität versteht und sich auf mehr oder 
- minder vage Analogien zum menschlichen Dasein beruft. 
- Diese Analogien werden ausgewälzt und das führt zu Gleich - 
- stellungen, auch wo dies sachlich nicht gerechtfertigt ist. "This 
- confusion seems to me to show itself in Mr. [Laski](/bestand/register/personenregister/item/laski_harold-j) 's [[Fortsetzung des Textes auf Zettel 1-5A1c2|]]
+ Cf. the critique by [[Bibliography/cohen_1931_reason|Cohen, R. and N., S. 388ff.]] This thesis 
+ can only be defended if one leaves in darkness 
+ what one understands by personality and appeals to more or 
+ less vague analogies to human existence. 
+ These analogies are stretched out, and this leads to equi- 
+ valences even where this is not factually justified. "This 
+ confusion seems to me to show itself in Mr. [Laski](/bestand/register/personenregister/item/laski_harold-j)'s [[Fortsetzung des Textes auf Zettel 1-5A1c2|]]
 
 ---
 ## Navigation

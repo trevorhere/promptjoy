@@ -1,10 +1,9 @@
-
 # ZK I Zettel 1,5B2
 
 ## 1,5B2 [Locke](/bestand/register/personenregister/item/locke_john) 
 
- Auch [Locke](/bestand/register/personenregister/item/locke_john) legt seiner Staatstheorie als Axiomatik 
- eine These über das Wesen des Menschen zu Grunde. [[Bibliography/locke_1946_treatise|Tr. II]] 
+ [Locke](/bestand/register/personenregister/item/locke_john) also bases his theory of the state on a thesis 
+ about the nature of man as axiomatic foundation. [[Bibliography/locke_1946_treatise|Tr. II]] 
 
  [[Bibliography/locke_1946_treatise|§ 95]] : "Men being, as has been said, by nature all free, 
  equal, and independent, no one can be put out of 

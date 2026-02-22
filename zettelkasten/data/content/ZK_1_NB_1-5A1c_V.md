@@ -1,22 +1,21 @@
-
 # ZK I Zettel 1,5A1c
 
-## 1,5A1c Durchaus in dieser Tradition steht die Lehre von 
- der Nation (oder anderen Verbänden) als geistiger Perso - 
- nalität, als Subjekt mit "Selbstbewusstein ", vertreten 
- z.B. von [[Bibliography/husserl_1952_ideen-2|Husserl, Ideen II, S. 351]] 
+## 1,5A1c Entirely in this tradition stands the doctrine of 
+ the nation (or other associations) as spiritual person- 
+ ality, as a subject with "self-consciousness," represented 
+ e.g. by [[Bibliography/husserl_1952_ideen-2|Husserl, Ideen II, S. 351]] 
 
- Ähnlich ist [[Bibliography/husserl_1952_ideen-2|Ideen II, S. 243]] die Rede vom Staate, Volke 
- Verein (!) usw. (!) als einheitlicher Gemeingeist, als 
- Objektivität höherer Stufe, als die die einzelnen Geist - 
- leiber umspannender ""Sinn" oder "Geist"". 
+ Similarly, in [[Bibliography/husserl_1952_ideen-2|Ideen II, S. 243]] there is talk of the state, people, 
+ association (!) etc. (!) as unified collective spirit, as 
+ objectivity of a higher level, as a "'meaning' or 'spirit'" 
+ encompassing the individual spirit-bodies. 
 
- äusserst unklar! 
+ extremely unclear! 
 
- Diese Lehre stammt in ihrer wirksamsten Form 
- aus der Romantik. Während die Romanisten in der Folge 
- [Savigny](/bestand/register/personenregister/item/savigny_friedrich-carl-von) s nur dem Staate einen realen Geist zuschrieben 
- (?? so behauptet [[Bibliography/cohen_1931_reason|Cohen, Reason and Nature, S. 387]] ) dehnen [[Fortsetzung des Textes auf Zettel 1-5A1c1|]]
+ This doctrine originates in its most influential form 
+ from Romanticism. While the Romanists following 
+ [Savigny](/bestand/register/personenregister/item/savigny_friedrich-carl-von) attributed a real spirit only to the state 
+ (?? so claims [[Bibliography/cohen_1931_reason|Cohen, Reason and Nature, S. 387]] ), [[Fortsetzung des Textes auf Zettel 1-5A1c1|]]
 
 ---
 ## Navigation

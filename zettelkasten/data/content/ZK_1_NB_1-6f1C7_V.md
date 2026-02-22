@@ -1,20 +1,19 @@
-
 # ZK I Zettel 1,6f1C7
 
-## 1,6f1C7 Die ausschliessliche Festlegung auf den Einheits - 
- typus System, und in dieser Grenze wiederum auf 
- ein System von Regeln, nicht von Entscheidungen ( [[1-6f1A|1,6f1A]] ), 
- ist Kennzeichen und Grenze der Staatslehre [Kelsens](/bestand/register/personenregister/item/kelsen_hans) . 
- Das geschieht nicht im Wege besonderer Abwägung, sondern 
- im Wege des Vorurteils. [Kelsen](/bestand/register/personenregister/item/kelsen_hans) denkt Einheit von vorne 
- herein als logisch-systematische Einheit, und das kommt 
- wohl daher, dass er – an sich richtig – den Gegenstand der 
- Wissenschaft durch die Einheit der Methode konstituiert sieht, 
- sein Methodenbegriff aber – unter dem Einfluss des Neukan - 
- tianismus – zu eng, rein logisch, verstanden ist. Damit ist 
- das Einheitsproblem für [Kelsen](/bestand/register/personenregister/item/kelsen_hans) von vornherein nur ein 
- Problem der logischen Konstruktion, nicht eigentlich ein 
- Horizont-Problem, nicht ein Problem, das durch die [[Fortsetzung des Textes auf Zettel 1-6f1C8|]]
+## 1,6f1C7 The exclusive fixation on the unity 
+ type of system, and within this limit again on 
+ a system of rules, not of decisions ([[1-6f1A|1,6f1A]]), 
+ is the hallmark and limit of [Kelsen](/bestand/register/personenregister/item/kelsen_hans)'s state theory. 
+ This happens not by way of special consideration, but 
+ by way of prejudice. [Kelsen](/bestand/register/personenregister/item/kelsen_hans) thinks unity from the 
+ outset as logical-systematic unity, and this probably comes 
+ from the fact that he – correctly in itself – sees the object of 
+ science constituted by the unity of method, 
+ but his concept of method is – under the influence of Neo- 
+ Kantianism – understood too narrowly, purely logically. Thus 
+ the unity problem is for [Kelsen](/bestand/register/personenregister/item/kelsen_hans) from the outset only a 
+ problem of logical construction, not really a 
+ horizon problem, not a problem posed by the [[Continuation of text on slip 1-6f1C8|]]
 
 ---
 ## Navigation

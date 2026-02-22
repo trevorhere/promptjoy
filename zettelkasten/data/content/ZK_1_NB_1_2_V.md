@@ -1,11 +1,10 @@
-
 # ZK I Zettel 1 (2)
 
-## 1 **Literatur** 
+## 1 **Literature** 
 
- [[Bibliography/darmstaedter_1929_einheit|Friedrich Darmstaedter, Soziale Einheit,in Arch. für Rechts- und Wirtschaftsphilosophie XXIII/1oder Sonderausgabe, Basel[*]1930]] 
- [[Bibliography/graves_1934_state|W. Brooke Graves, Uniform State Action. A PossibleSubstitute for Centralization, Chapel Hill 1934]] 
- [[Bibliography/rickert_1911_eine|Heinrich Rickert, Das Eine, die Einheit und die Eins, Logos2 (1911), S. 26ff.]] 
+ [[Bibliography/darmstaedter_1929_einheit|Friedrich Darmstaedter, Soziale Einheit, in Arch. für Rechts- und Wirtschaftsphilosophie XXIII/1 oder Sonderausgabe, Basel[*]1930]] 
+ [[Bibliography/graves_1934_state|W. Brooke Graves, Uniform State Action. A Possible Substitute for Centralization, Chapel Hill 1934]] 
+ [[Bibliography/rickert_1911_eine|Heinrich Rickert, Das Eine, die Einheit und die Eins, Logos 2 (1911), S. 26ff.]] 
  [[Bibliography/moog_1919_einheit|Willy Moog, Einheit und Zahl, Kantstudien 23 (1918)[*], S. 302ff.]]
 
 ---

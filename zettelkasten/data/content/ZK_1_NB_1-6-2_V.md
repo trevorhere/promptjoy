@@ -1,22 +1,21 @@
-
 # ZK I Zettel 1,6,2
 
-## 1,6,2 [[1-6|2]] Vorfragen nach dem Sein des Staates 
+## 1,6,2 [[1-6|2]] Preliminary questions on the being of the state 
 
- [[Bibliography/mannheim_1952_ideologie|Mannheim, Ideologie und Utopie, S. 170]] über gesellschaft - 
- liches Sein: 
- "Sein ist vom Soziologen aus gesehen stets nur erfassbar 
- als eine 'konkret geltende', das will hier besagen – als eine 
- sich auswirkende und in diesem Sinne als wirklich 
- bestimmbare Lebensordnung." 
+ [[Bibliography/mannheim_1952_ideologie|Mannheim, Ideologie und Utopie, S. 170]] on social 
+ being: 
+ "Being, from the sociologist's perspective, can only be grasped 
+ as a 'concretely valid,' which here means – as an 
+ actually effective and in this sense as a really 
+ determinable life-order." 
 
- vgl. vor allem [[28_1|28]] 
+ cf. especially [[28_1|28]] 
 
- Von der Feststellung aus, dass der Staat Geist ohne 
- Bewusstsein ist ( [[28-2c|28,2c]] ; [[28-6a|6a]] ) kommt man auf die 
- Einheitsproblematik, denn dasjenige Merkmal, das 
- die Einheit und Geschlossenheit der geistigen Person kon - 
- stituiert, ist eben das Bewusstsein. Die Aufgabe besteht [[Fortsetzung des Textes auf Zettel 1-6-2a|]]
+ From the observation that the state is spirit without 
+ consciousness ( [[28-2c|28,2c]] ; [[28-6a|6a]] ) one arrives at 
+ the problem of unity, for that characteristic which 
+ constitutes the unity and closure of the spiritual person 
+ is precisely consciousness. The task consists [[Fortsetzung des Textes auf Zettel 1-6-2a|]]
 
 ---
 ## Navigation

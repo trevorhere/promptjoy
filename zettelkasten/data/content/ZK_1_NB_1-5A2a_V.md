@@ -1,8 +1,7 @@
-
 # ZK I Zettel 1,5A2a
 
-## 1,5A2a Zur Kritik des Group-Mind Myth im besonderen 
- vgl. [[Bibliography/lapiere_1938_behavior|LaPiere, S. 4-7]] : 
+## 1,5A2a On the critique of the Group-Mind Myth in particular 
+ cf. [[Bibliography/lapiere_1938_behavior|LaPiere, S. 4-7]] : 
 
  [[Bibliography/lapiere_1938_behavior|S. 4]] : "This concept can be baldly stated as a belief that, 
  from the interaction of people in social groups, there 

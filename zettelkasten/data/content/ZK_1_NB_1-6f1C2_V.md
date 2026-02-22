@@ -1,22 +1,21 @@
-
 # ZK I Zettel 1,6f1C2
 
-## 1,6f1C2 gefüges bedeutend erhöht. Die Tatsache aber, dass 
- jede Organisation zu ihrer Verstetigung einer objektivierten 
- Ordnung bedarf, widerlegt in keiner Weise die Feststellung, 
- dass die Organisation als Handlungsgefüge ihre wirkliche, 
- nämlich aktuelle Einheit in nichts anderem besitzt, als in 
- dem durch Organe einheitlich aktualisierten Zusammen - 
- wirken der Beteiligten. [Hier beginnt das Durcheinander der 
- Einheitsbegriffe und die Verkennung der Problemvielfalt!] ! > Die 
- Einheit der objektivierten Ordnung ist die ideelle Einheit 
- eines normativen Sinnzusammenhanges, die Einheit der 
- Organistation ist die wirkliche Einheit eines bewirkten Wirkungs - 
- zusammenhanges. < ! Ohne die objektivierte Ordnung 
- in ihrer Eigenschaft als konkrete Anordnung des einheits - 
- bildenden Handelns ist sicherlich keine dauernde Organi - 
- sation, geschweige denn das Handlungsgefüge Staat möglich. 
- ? > Es ist aber nur die Einheit der Anordnung, welche die Einheit, < ? [[Fortsetzung des Textes auf Zettel 1-6f1C3|]]
+## 1,6f1C2 structure. The fact, however, that 
+ every organization requires an objectified order for its 
+ stabilization, in no way refutes the determination 
+ that the organization as action structure possesses its real, 
+ namely actual unity in nothing other than in 
+ the cooperation of participants uniformly actualized 
+ by organs. [Here begins the confusion of 
+ unity concepts and the failure to recognize the diversity of problems!] ! > The 
+ unity of the objectified order is the ideal unity 
+ of a normative meaning-context, the unity of the 
+ organization is the real unity of an effected effect- 
+ context. < ! Without the objectified order 
+ in its quality as concrete arrangement of unity- 
+ forming action, certainly no lasting organi- 
+ zation is possible, let alone the action structure of the state. 
+ ? > But it is only the unity of arrangement that makes the unity, < ? [[Continuation of text on slip 1-6f1C3|]]
 
 ---
 ## Navigation

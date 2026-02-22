@@ -1,32 +1,31 @@
-
 # ZK I Zettel 1,5B1
 
 ## 1,5B1 [Hobbes](/bestand/register/personenregister/item/hobbes_thomas) 
 
  
 
- 1.) Brauchbarer Ansatzpunkt insofern, als [Hobbes](/bestand/register/personenregister/item/hobbes_thomas) das künstlich 
- gemachte des Staates betont. 
+ 1.) Useful starting point insofar as [Hobbes](/bestand/register/personenregister/item/hobbes_thomas) emphasizes the artificially 
+ made character of the state. 
 
- so [[Bibliography/hobbes_1949_leviathan|Introduction]] : "For by Art is created that great 
+ thus [[Bibliography/hobbes_1949_leviathan|Introduction]] : "For by Art is created that great 
  Leviathan called a Common-wealth or State, which is 
- but an Artificiall man". Staat ein Machwerk, ein 
- Automat, eine Maschine oder – wie wir heute sagen 
- würden – ein Apparat. 
+ but an Artificiall man". State as a contrivance, an 
+ automaton, a machine – or, as we would say today, 
+ an apparatus. 
 
- Die Einheit des Staates ist die einer gewollten, zweckmässig 
- geschaffenen Einrichtung. 
-
- 
-
- 2.) Der Einrichtungsakt wird als Vertrag vernünftiger, 
- im vorstaatlichen Naturzustand lebender Subjekte fingiert. 
- Von da her bestimmen sich die Mängel dieser Konstruktion: 
+ The unity of the state is that of a willed, purposefully 
+ created institution. 
 
  
 
- a.) Der Naturmensch wird rationalistisch- eindimensional erklärt . 
- Feindseligkeit und Misstrauen sind die betonten Eigenschaften. [[Fortsetzung des Textes auf Zettel 1-5B1a|]]
+ 2.) The act of institution is feigned as a contract of rational 
+ subjects living in a pre-state of nature. 
+ From this the deficiencies of this construction are determined: 
+
+ 
+
+ a.) Natural man is explained rationalistically-one-dimensionally. 
+ Hostility and mistrust are the emphasized characteristics. [[Fortsetzung des Textes auf Zettel 1-5B1a|]]
 
 ---
 ## Navigation

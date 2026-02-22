@@ -1,8 +1,7 @@
-
 # ZK I Zettel 1,6c
 
-## 1,6c Einheit des Staates findet sich nur in seiner 
- Aktivität vgl. [[Bibliography/ferri_1939_funzione-1|Ferri, S.120]] : 
+## 1,6c The unity of the state is found only in its 
+ activity cf. [[Bibliography/ferri_1939_funzione-1|Ferri, S.120]] : 
 
  "L'attività di governo – determinata in base all' 
  atto di direttiva politica – è l'attitvità statuale 

@@ -1,16 +1,15 @@
-
 # ZK I Zettel 1,5c
 
-## 1,5c andere Kollektiveinheiten z.B. das Volk 
- vermögen dagegen ruhend, durch Fortleben eines 
- Gemeingeistes unbewusster Art *X* [??], zu bestehen." 
+## 1,5c other collective unities, e.g., the people, 
+ can in contrast persist at rest, through the continuation of a 
+ collective spirit of an unconscious kind *X* [??]." 
 
- Diese Unklarheit in der letzten Satzhälfte ist 
- typisch. Man kann sich unter dieser Art 
- Einheit eben nichts rechtes vorstellen. 
+ This lack of clarity in the last half of the sentence is 
+ typical. One simply cannot properly conceive of this kind 
+ of unity. 
 
- *X* Deutet auf einen Einfluss [Nikolai Hartmann](/bestand/register/personenregister/item/hartmann_nicolai) s hin. 
- Dazu und dagegen vgl. [[28-2|28,2]] ff. 
+ *X* Points to an influence of [Nikolai Hartmann](/bestand/register/personenregister/item/hartmann_nicolai). 
+ On this and against it cf. [[28-2|28,2]] ff. 
  
 
  [[Bibliography/laski_1941_grammar|Laski, A Grammar of Politics, S. 263]] : "It [path to a solution] 

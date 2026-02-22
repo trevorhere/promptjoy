@@ -1,16 +1,15 @@
-
 # ZK I Zettel 1,6,1a
 
-## 1,6,1a (vgl. [[Bibliography/marcel_1951_mystere-1|Marcel, Mystère I, S. 108]] ). Das ist auch das 
- Schicksal aller Dialektik . vgl. auch [[57-4e7b3c7f6|57,4e7b3c7f6]] / [[57-4e7b3c7f7|7]] 
+## 1,6,1a (cf. [[Bibliography/marcel_1951_mystere-1|Marcel, Mystère I, S. 108]] ). This is also the 
+ fate of all dialectics. cf. also [[57-4e7b3c7f6|57,4e7b3c7f6]] / [[57-4e7b3c7f7|7]] 
  
 
- vgl. auch [[Bibliography/maciver_1953_macht|McIver, S. 313]] : "So entledigen wir uns zuerst einmal 
- der Vorstellung, als ob der weite umfassende Gesellschaftsmecha - 
- nismus sich aus eigenem bewege. Er ist nicht vereinheitlicht, 
- nicht aus einem Guss. Er wird von vielen Leistungszentralen aus 
- und niemals in völliger Übereinstimmung gelenkt. Er 
- ändert sich unablässig."
+ cf. also [[Bibliography/maciver_1953_macht|McIver, S. 313]] : "So we first rid ourselves of 
+ the notion that the vast comprehensive social mecha- 
+ nism moves of its own accord. It is not unified, 
+ not of one piece. It is directed from many performance centers 
+ and never in complete agreement. It 
+ changes incessantly."
 
 ---
 ## Navigation

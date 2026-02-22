@@ -1,27 +1,26 @@
-
 # ZK I Zettel 1,6f
 
-## 1,6f Wenn man die Einheit des Staates als Entscheidungs - 
- und Wirkungseinheit bestimmt, so sagt das: 
+## 1,6f If one defines the unity of the state as unity of decision 
+ and effect, this means: 
 
- Eine geschlossene Einheit findet sich nur in den kon - 
- kreten Entscheidungen als Ergebnis der Verschmelzung einer 
- Reihe von Einflüssen zu einem Aktionsentschluss. Auch 
- diese Einheit kann im übrigen mehr oder weniger locker 
- sein, mehr oder weniger oberflächlich, z.B. bei Formelkompro - 
- missen. Es wäre eine Typologie der Einheitsgraduierungen zu 
- entwickeln, etwa: 
+ A closed unity is found only in concrete 
+ decisions as the result of the fusion of a 
+ series of influences into a resolution to act. This 
+ unity too can moreover be more or less loose, 
+ more or less superficial, e.g., in formula compromises. 
+ A typology of degrees of unity would need to be 
+ developed, such as: 
 
  
 
- 1.) Abstufung nach der Intensität der Zustimmung 
+ 1.) Gradation according to the intensity of consent 
 
- a.) der Mithandelnden 
+ a.) of the co-actors 
 
- b.) aller Beteiligten 
+ b.) of all participants 
 
- 2.) Abstufung nach dem Gelingen der sachlichen Intergration der 
- a.) Interessenb.) Meinungen | | A der MithandelndenB aller Beteiligten [[Fortsetzung der Liste auf Zettel 1-6f1|]]
+ 2.) Gradation according to the success of substantive integration of 
+ a.) interestsb.) opinions | | A of co-actorsB of all participants [[Continuation of list on slip 1-6f1|]]
 
 ---
 ## Navigation

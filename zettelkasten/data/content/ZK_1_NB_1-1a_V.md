@@ -1,26 +1,25 @@
-
 # ZK I Zettel 1,1a
 
-## 1,1a Einheit ist das Problem der als absurd (in sich wider - 
- spruchsvoll) erfahrenen Welt, die sich nicht mehr schliesst. 
+## 1,1a Unity is the problem of the world experienced as absurd (internally contra- 
+ dictory), which no longer closes itself. 
 
- Einheit ist nur in der Revolte gegen die Welt zu 
- erringen, in einer Revolte, die doch vom Menschen in dieser 
- Welt durchgeführt werden muss, da er das Absurde hier 
- erleidet. Die Revolte muss daher die Welt akzeptieren, die 
- sie verwirft. 
+ Unity can only be won in revolt against the world, 
+ in a revolt that must nonetheless be carried out by humans in this 
+ world, since they suffer the absurd here. 
+ The revolt must therefore accept the world 
+ that it rejects. 
 
- Das gelingt dem genialen Kunstwerk durch stilhafte [[1-1aa|1]] Prägung der Materie. 
+ This succeeds for the work of genius through stylistic [[1-1aa|1]] shaping of matter. 
 
- Das gelingt der Wissenschaft durch Verifikation ihrer 
- Einheit konstruierenden Theorie. 
+ This succeeds for science through verification of its 
+ unity-constructing theory. 
 
- Das gelingt dem Staat durch Durchsetzung seiner 
- Grundplanung des öffentlichen Daseins. 
+ This succeeds for the state through enforcement of its 
+ fundamental plan for public existence. 
 
- In allen Fällen ist das Gelingen daran gebunden, 
- dass der Mensch das Relevanzschema bestimmt. Stil, 
- Theorie, Grundplan sind Relevanzschemata.
+ In all cases, success depends on 
+ humans determining the schema of relevance. Style, 
+ theory, fundamental plan are schemas of relevance.
 
 ---
 ## Navigation

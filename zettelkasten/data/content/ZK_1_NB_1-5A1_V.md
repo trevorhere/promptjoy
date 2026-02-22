@@ -1,27 +1,26 @@
-
 # ZK I Zettel 1,5A1
 
 ## 1,5A1 
 
- Stationen und Vertreter dieser Lehre: 
+ Stages and representatives of this doctrine: 
 
  
 
- 1.) Die griechische Gleichsetzung von Staat und 
- Gesellschaft, 
+ 1.) The Greek equation of state and 
+ society, 
 
  2.) [Rousseau](/bestand/register/personenregister/item/rousseau_jean-jacques) , [Hegel](/bestand/register/personenregister/item/hegel_georg-wilhelm-friedrich) , [Bosanquet](/bestand/register/personenregister/item/bosanquet_bernard) . 
 
- Es gibt einen eigentlichen, vernünftigen, wirklichen 
- Willen im Menschen, unabhängig von seinem subj. [subjektiven [NL-Archiv]] 
- Meinen und Streben. Dieser Wille ist in allen 
- Mitgliedern der Gesellschaft gleich, ja identisch. 
+ There exists a proper, rational, real 
+ will in humans, independent of their subjective [subjektiven [NL-Archiv]] 
+ opinions and strivings. This will is the same, 
+ indeed identical, in all members of society. 
 
- Weitere Voraussetzung: Es gibt für jede Frage eine richti- - 
- ge Lösung und diese eine Lösung strebt der Wille an. 
- Folge: Freiheit und Zwang fallen zusammen, denn 
- man zwingt den einzelnen nur, seinen eigentlichen 
- Willen auszuführen, d.h. frei zu handeln. [[Fortsetzung der Liste auf Zettel 1-5A2|]]
+ Further presupposition: For every question there is one correct 
+ solution, and the will strives for this one solution. 
+ Consequence: Freedom and coercion coincide, for 
+ one only coerces the individual to carry out their proper 
+ will, i.e., to act freely. [[Fortsetzung der Liste auf Zettel 1-5A2|]]
 
 ---
 ## Navigation

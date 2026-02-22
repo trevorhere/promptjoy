@@ -1,4 +1,3 @@
-
 # ZK I Zettel 1,5B1d
 
 ## 1,5B1d 
@@ -10,12 +9,12 @@
  Unity , cannot otherwise be understood in 
  Multitude". ( [[Bibliography/hobbes_1949_leviathan|I 16, S. 85]] ) 
 
- Damit ist zwar die Einheit des formalen Entscheidungs - 
- mechanismus, die Wirkungseinheit der Organisation 
- gesichert, nicht aber die innere Kohärenz des Ganzen, 
- die für [[Bibliography/hobbes_1949_leviathan|Hobbes]] kein Problem darstellt (vgl. [[1-5B2b|1,5B2b]] siehe [[1-5B1a|1,5B1a]] ). Auf 
- Grund der fingierten Zustimmung wird der einzelne als 
- "Author" [[1-5B1d1|1]] aller Staatshandlungen fingiert. [Def. des Staates: 
+ This secures the unity of the formal decision 
+ mechanism, the effective unity of the organization, 
+ but not the internal coherence of the whole, 
+ which for [[Bibliography/hobbes_1949_leviathan|Hobbes]] poses no problem (cf. [[1-5B2b|1,5B2b]] see [[1-5B1a|1,5B1a]] ). On 
+ the basis of the feigned consent, the individual is feigned 
+ as "Author" [[1-5B1d1|1]] of all state actions. [Def. of the state: 
  "One person, of whose acts a great multitude, by mutuall 
  covenants one with another, have made themselves 
  every one the Author, to the end he may use the strength [[Fortsetzung des Textes auf Zettel 1-5B1e|]]

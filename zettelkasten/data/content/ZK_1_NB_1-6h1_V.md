@@ -1,10 +1,9 @@
-
 # ZK I Zettel 1,6h1
 
-## 1,6h1 'Summe' der ihn bildenden Einzelnen. Genau das 
- Gleiche gilt aber auch für eine organisierte Feuerlöschaktion; auch 
- ihr Effekt ist etwas gänzlich anderes wie die Summe der beteiligten 
- Einzelleistungen im nichtorganisierten Zustand."
+## 1,6h1 'sum' of the individuals forming it. But exactly the 
+ same applies to an organized firefighting action; its 
+ effect too is something entirely different from the sum of the participating 
+ individual performances in an unorganized state."
 
 ---
 ## Navigation

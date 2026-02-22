@@ -1,13 +1,12 @@
-
 # ZK I Zettel 1,6f1C6
 
-## 1,6f1C6 für sie alle, und von ihr her lässt sich die 
- gewaltenteilende Differenzierung organisatorisch ent - 
- wickeln. Auf dem Begriff der Entscheidung basiert daher 
- die Einheit des systematischen Aufbaus der Organisations - 
- lehre (vgl. [[60-13|60,13]] ), auf der Faktizität der einheitlichen 
- Grundorganisation der Entscheidungstätigkeit die Aufbau - 
- einheit der Organisation.
+## 1,6f1C6 for all of them, and from it the 
+ power-separating differentiation can be organizationally 
+ developed. The unity of the systematic structure of organizational 
+ theory is therefore based on the concept of decision 
+ (cf. [[60-13|60,13]]), the structural 
+ unity of the organization on the facticity of the unified 
+ basic organization of decision-making activity.
 
 ---
 ## Navigation

@@ -1,25 +1,23 @@
-
 # ZK I Zettel 1,6f1B2
 
-## 1,6f1B2 ( [[Bibliography/heller_1934_staatslehre|Heller, S. 229]] ) sehen würde, so würde sie sofort 
- in unendlich mannigfaltige und verschiedenartige Vielheiten 
- zerflattern. 
+## 1,6f1B2 ([[Bibliography/heller_1934_staatslehre|Heller, S. 229]]) it would immediately 
+ scatter into infinitely manifold and diverse pluralities. 
 
- [[Bibliography/heller_1934_staatslehre|Heller]] selbst geht in manchen Formulierungen 
- denn auch über seine Grundthese hinaus, kommt aber zu 
- keiner klaren Entfaltung der Einheitsproblematik. 
+ [[Bibliography/heller_1934_staatslehre|Heller]] himself goes beyond his basic thesis 
+ in some formulations, but does not arrive at 
+ a clear development of the unity problematic. 
 
- vgl. z.B. [[Bibliography/heller_1934_staatslehre|S. 230]] : "Seine (des Staates) Einheit ist 
- die wirkliche Einheit eines Handlungsgefüges [!], dessen 
- Existenz als menschliches Zusammenwirken durch das 
- bewusst auf die wirksame Einheitsbildung gerichtete 
- Handeln von besonderen 'Organen' ermöglicht wird" – Einheit 
- des Gefüges ist aber etwas ganz anderes als Wirkungseinheit! 
- vgl. auch [[1-6f1C1|1,6f1C1]] 
+ cf. e.g. [[Bibliography/heller_1934_staatslehre|S. 230]]: "Its (the state's) unity is 
+ the real unity of an action structure [!], whose 
+ existence as human cooperation is made possible through 
+ the action of special 'organs' consciously directed toward 
+ effective unity formation" – but unity 
+ of structure is something quite different from effect unity! 
+ cf. also [[1-6f1C1|1,6f1C1]] 
 
- Nähere Aufklärung dieser Problematik lässt sich 
- nur erreichen, wenn man das Verhältnis von Kooperation 
- und Organisation klärt; vgl. dazu [[83-2c|83,2c]] .
+ Closer clarification of this problematic can 
+ only be achieved if one clarifies the relationship between cooperation 
+ and organization; cf. on this [[83-2c|83,2c]].
 
 ---
 ## Navigation

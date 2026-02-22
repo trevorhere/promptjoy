@@ -1,18 +1,17 @@
-
 # ZK I Zettel 1,2a
 
-## 1,2a des Einheitsproblemes und deshalb genau 
- eine der Formen, unter denen es praktischem Ein - 
- wirken zugänglich ist. Aber die einzige? 
+## 1,2a of the problem of unity and therefore precisely 
+ one of the forms through which it becomes accessible to practical in- 
+ fluence. But the only one? 
 
- Die Einheit des Staates resultiert danach aus der 
- Summierung allg. gleicher Willen und Interessen. 
- Alles, was ungleich ist, wird als irrational ausge - 
- klammert und "Gesellschaft" genannt. 
- Parallele zur Methodik der Naturwissenschaften. 
+ The unity of the state thus results from the 
+ summation of generally equal wills and interests. 
+ Everything that is unequal is bracketed out as irrational 
+ and called "society." 
+ Parallel to the methodology of natural sciences. 
 
- vgl. [[57-4e|57,4e]] 
- vgl. auch [[1-6f1D|1,6f1D]] ; [[6|6]] ; [[1-9b|1,9b]]
+ cf. [[57-4e|57,4e]] 
+ cf. also [[1-6f1D|1,6f1D]] ; [[6|6]] ; [[1-9b|1,9b]]
 
 ---
 ## Navigation

@@ -1,4 +1,3 @@
-
 # ZK I Zettel 1,5d
 
 ## 1,5d [[Bibliography/key_1948_politics|Key, S. 209]] : "Speculators about democracy seemed 

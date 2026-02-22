@@ -1,23 +1,22 @@
-
 # ZK I Zettel 1,1b
 
-## 1,1b Wie verhält sich das Relevanzschema zu den 
- verschiedenen Einheitstypen ? Zu Gleichheit, System, 
- Zweck- und Wirkungseinheit? Stileinheit? 
+## 1,1b How does the schema of relevance relate to the 
+ various types of unity? To equality, system, 
+ purposive and effective unity? Stylistic unity? 
 
- Eine "glatte" Lösung dieser Frage ist noch nicht 
- gefunden. Einstweilen lässt sich nur sagen: 
+ A "smooth" solution to this question has not yet 
+ been found. For now, one can only say: 
 
- Das Relevanzschema soll Einheit leisten und 
- muss deshalb notwendig in der Form eines (oder 
- mehrerer?) Einheitstypus auftreten. 
+ The schema of relevance is meant to achieve unity and 
+ must therefore necessarily appear in the form of one (or 
+ several?) type(s) of unity. 
 
- Das System ist eine "welt"liche, horizontgebunde - 
- ne logische Form, während die Zweck- und Wirkungseinheit 
- situationsgebunden ist. Demgemäss wird das Rele - 
- vanzschema als Welt-Schema des Erkennens 
- systematisch sein, das Situationsschema des Handelns 
- dagegen teleologisch-kausal. Gleichheit ist ein [[Fortsetzung des Textes auf Zettel 1-1c|]]
+ The system is a "worldly," horizon-bound 
+ logical form, while purposive and effective unity 
+ is situation-bound. Accordingly, the relevance 
+ schema as world-schema of cognition 
+ will be systematic, whereas the situational schema of action 
+ will be teleological-causal. Equality is an [[Fortsetzung des Textes auf Zettel 1-1c|]]
 
 ---
 ## Navigation

@@ -1,26 +1,24 @@
-
 # ZK I Zettel 1,6f1C11
 
 ## 1,6f1C11 
 
- Postulat der Einheit des Rechts bereits als erfüllt vor - 
- aussetzt – zu einer dynamischen über, bei der die Grundregel 
- zu suchen ist, nach der die geforderte Einheit des Rechtsmaterials, 
- der Rechtssätze erst hergestellt wird, dann wird der Begriff des 
- Staates zum Ausdruck für diese die Einheit des Rechtsstoffes 
- erzeugende Grundfunktion. Und in demselben Masse, in dem 
- man dem Begriff des Staates diese Bedeutung eines das Rechts - 
- material ordnenden Grundschemas abgewinnt, muss sich 
- eine logische – aber keine metaphysische – Differenzierung 
- zwischen Staat und Recht als zwischen dem obersten 
- Ordnungsprinzip und dem geordneten Ganzen ergeben, 
- muss sich die Parallele zu den Grundbegriffen der 
- Naturwissenschaft im Sinne des transzendentalen Idealismus 
- vollenden." 
+ postulate of the unity of law already as fulfilled – 
+ to a dynamic one, in which the basic rule 
+ is to be sought according to which the demanded unity of legal material, 
+ of legal propositions, is first established, then the concept of the 
+ state becomes the expression for this basic function producing 
+ the unity of the legal material. And to the same extent that 
+ one extracts from the concept of state this meaning of a basic schema 
+ ordering legal material, a logical – but not metaphysical – differentiation 
+ must result between state and law as between the highest 
+ ordering principle and the ordered whole, 
+ the parallel to the basic concepts of 
+ natural science in the sense of transcendental idealism 
+ must be completed." 
 
- Der Staat wird damit zu einer gedanklichen Schöpfung 
- zum Zwecke der Rechtserkenntnis. 
- [[Fortsetzung der Liste auf Zettel 1-6f1C12|]]
+ The state thus becomes an intellectual creation 
+ for the purpose of legal cognition. 
+ [[Continuation of list on slip 1-6f1C12|]]
 
 ---
 ## Navigation

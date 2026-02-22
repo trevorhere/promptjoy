@@ -1,27 +1,25 @@
-
 # ZK I Zettel 1,5B1a
 
 ## 1,5B1a 
 
  
 
- Dementsprechend hat der Staat die eindeutige 
- Aufgabe, diesen Eigenschaften zu begegnen, Sicherheit 
- und Frieden zu schaffen. Dieser eindeutige Zweck gibt 
- allem Staatshandeln von vorneherein eine einheitliche 
- Sinnrichtung. 
+ Accordingly, the state has the unambiguous 
+ task of countering these characteristics, of creating security 
+ and peace. This unambiguous purpose gives 
+ all state action a unified direction of meaning from the outset. 
 
- b.) Der Einrichtungsakt liegt – unbezweifelbar und un - 
- problematisch – in der Vergangenheit . Er hat eine 
- absolute Entscheidungseinrichtung konstituiert. Diese 
- wird vorausgesetzt und nicht mehr eigens zum Problem 
- gemacht; insb. kann die Frage gar nicht gestellt werden, 
- ob der einzelne damit zufrieden ist. 
+ b.) The act of institution lies – undoubtedly and un- 
+ problematically – in the past. It has constituted an 
+ absolute decision-institution. This 
+ is presupposed and no longer made into a problem; 
+ in particular, the question cannot even be raised 
+ whether the individual is satisfied with it. 
 
- c.) Von daher bekommt das Staatsdenken [Hobbes](/bestand/register/personenregister/item/hobbes_thomas) ' einen 
- rechtfertigenden, erklärenden Charakter . Das 
- Ersinnen zweckmässiger Techniken spielt eine zweit - 
- rangige Rolle und kann auf diesem Boden auch nicht [[Fortsetzung des Textes auf Zettel 1-5B1b|]]
+ c.) From this, [Hobbes](/bestand/register/personenregister/item/hobbes_thomas)'s political thought acquires a 
+ justifying, explanatory character. The 
+ devising of purposeful techniques plays a secondary 
+ role and cannot really [[Fortsetzung des Textes auf Zettel 1-5B1b|]]
 
 ---
 ## Navigation

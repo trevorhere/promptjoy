@@ -1,17 +1,16 @@
-
 # ZK I Zettel 1,5A3
 
 ## 1,5A3 
 
- Über die nationalsozialistische Doktrin von der 
- Einheit von Staat und Volk vgl. [[Bibliography/huber_1935_staatswissenschaft|Huber, Z f d ges. Stw. 95 (1935),S. 33ff.]] 
+ On the National Socialist doctrine of the 
+ unity of state and people cf. [[Bibliography/huber_1935_staatswissenschaft|Huber, Z f d ges. Stw. 95 (1935),S. 33ff.]] 
 
- An unterschiedsloser Gleichsetzung hinderte lediglich das 
- Faktum der Auslandsdeutschen, auf die man Anspruch 
- erhob. Deshalb nur: "untrennbare Einheit". 
+ What prevented an indiscriminate equation was only the 
+ fact of Germans abroad, to whom they laid claim. 
+ Therefore only: "inseparable unity." 
 
- "Der Staat ist die lebendige Form und Ordnung, die Gestalt 
- des Volkes" ( [[Bibliography/huber_1935_staatswissenschaft|Huber, S. 34]] ). [[Fortsetzung der Liste auf Zettel 1-5A4|]]
+ "The state is the living form and order, the figure 
+ of the people" ( [[Bibliography/huber_1935_staatswissenschaft|Huber, S. 34]] ). [[Fortsetzung der Liste auf Zettel 1-5A4|]]
 
 ---
 ## Navigation

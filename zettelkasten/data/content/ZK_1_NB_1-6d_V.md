@@ -1,11 +1,10 @@
-
 # ZK I Zettel 1,6d
 
-## 1,6d Das Wesen der Einheit des Staates ist 
- Wirkverbundenheit . 
- Ausdruck von [[Bibliography/plenge_1930_beziehung|Plenge, S. 26.]] 
- Geht aber zu weit, da er z.B. auch den biologischen 
- Organismus umgreift.
+## 1,6d The nature of the unity of the state is 
+ effective interconnection. 
+ Expression from [[Bibliography/plenge_1930_beziehung|Plenge, S. 26.]] 
+ But goes too far, since it also encompasses, for example, the biological 
+ organism.
 
 ---
 ## Navigation

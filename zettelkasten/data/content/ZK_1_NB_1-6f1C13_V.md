@@ -1,15 +1,14 @@
-
 # ZK I Zettel 1,6f1C13
 
 ## 1,6f1C13 
 
- eine bestimmende Prinzip. 
+ determining principle. 
 
- [[Bibliography/kelsen_1928_souveraenitaet|Kelsen z.B., Souveränität, S. 105ff.]] , scheint freilich zu meinen, dass 
- die Besonderheit der Ursprungsnorm auch die Besonderheit der Rechtsord - 
- nung determiniere. Sie sei principium individuationis für ihr 
- Normensystem, aber das ist – auch abgesehen von der etwas seltsamen 
- Verwendung des Wortes "principium individuationis" – nicht recht einsichtig.
+ [[Bibliography/kelsen_1928_souveraenitaet|Kelsen e.g., Souveränität, S. 105ff.]], seems indeed to think that 
+ the particularity of the basic norm also determines the particularity of the legal 
+ order. It is said to be the principium individuationis for its 
+ system of norms, but this is – quite apart from the somewhat strange 
+ use of the word "principium individuationis" – not really evident.
 
 ---
 ## Navigation

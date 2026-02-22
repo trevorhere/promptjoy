@@ -1,17 +1,16 @@
-
 # ZK I Zettel 1,5A1c2
 
 ## 1,5A1c2 contention that a corporation (as a mind 
  distinct from that of its officers or members) can have 
  the feeling of gratitude (or perhaps even the capacity 
- to eat dinners)." [[Bibliography/cohen_1931_reason|Cohen, R. and N., S. 390]] unter Berufung auf 
+ to eat dinners)." [[Bibliography/cohen_1931_reason|Cohen, R. and N., S. 390]] citing 
  [[Bibliography/laski_1916_personality|Laski, p. 483]] . 
  
 
- [[Bibliography/dahlmann_1847_politik|Dahlmann, Politik I, § 6]] : "Denn der Staat ist nicht bloss etwas 
- Gemeinsames unter den Menschen, nicht bloss etwas Unab - 
- hängiges, er ist zugleich etwas Zusammengewachsenes, eine 
- leiblich und geistig geeinigte Persönlichkeit."
+ [[Bibliography/dahlmann_1847_politik|Dahlmann, Politik I, § 6]] : "For the state is not merely something 
+ common among humans, not merely something inde- 
+ pendent; it is at the same time something grown together, a 
+ personality unified in body and spirit."
 
 ---
 ## Navigation

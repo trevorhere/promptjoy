@@ -1,4 +1,3 @@
-
 # ZK I Zettel 1,6e1
 
 ## 1,6e1 the unifying relation. The tendency to personify 
@@ -9,14 +8,14 @@
  a vividness without which our hearers may be 
  entirely unmoved. But modern mathematical logic 
  has taught us to avoid the old form of the issue 
- between nominalism and (the older) realism by recog - 
+ between nominalism and (the older) realism by recog- 
  nizing the relational character of unity." 
 
- Im übrigen zwingt insb. die Tatsache des potentierten 
- Effekts einer Kollektivaktion noch nicht zur Annahme 
- einer diesem Effekt als Leistungsträger zugrundeliegenden 
- besonderen Substanz. Zwei Buben können 
- 10x so viel Dummheiten aushecken wie einer allein, [[Fortsetzung des Textes auf Zettel 1-6e2|]]
+ Moreover, the fact of the amplified 
+ effect of collective action does not compel the assumption 
+ of a special substance underlying this effect as its bearer. 
+ Two boys can hatch 
+ ten times as many foolish schemes as one alone, [[Continuation of text on slip 1-6e2|]]
 
 ---
 ## Navigation

@@ -1,10 +1,9 @@
-
 # ZK I Zettel 1,5A1a1
 
 ## 1,5A1a1 
 
- 3.) Wille nicht zu etwas allgemeinem, sondern von etwas 
- allgemeinem: Wille der Gemeinschaft als personne 
+ 3.) Will not toward something general, but of something 
+ general: will of the community as personne 
  morale.
 
 ---

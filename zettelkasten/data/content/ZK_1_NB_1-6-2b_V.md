@@ -1,17 +1,16 @@
-
 # ZK I Zettel 1,6,2b
 
-## 1,6,2b möglichst adaequatem Bewusstsein seiner Führer 
- abhängt. Vielleicht ist gerade das Gegenteil richtig. Zum 
- Handeln gehört etwas von dem Kassandraschleier. 
+## 1,6,2b most adequate consciousness of its leaders. 
+ Perhaps the exact opposite is correct. Action 
+ requires something of Cassandra's veil. 
 
- [[Bibliography/hartmann_1949_problem|Hartmann selbst stellt auf S. 322ff., 337]] die Beson - 
- derheit der Staatsführung heraus gegenüber der Führung 
- auf anderen Gebieten des objektiven Geistes und er ist bereits 
- dicht an der Ursache der Besonderheit, nämlich dass es 
- sich im Staat um Führung des (ganzen) Kollektivs zur 
- Aktion handelt. Damit verlagert sich aber der Akzent 
- auf diese, die entscheidende Seite des Problems.
+ [[Bibliography/hartmann_1949_problem|Hartmann himself on S. 322ff., 337]] emphasizes the peculiar- 
+ ity of state leadership compared to leadership 
+ in other areas of objective spirit, and he is already 
+ close to the cause of the peculiarity, namely that in 
+ the state it is a matter of leading the (whole) collective to 
+ action. But with this the emphasis shifts 
+ to this, the decisive side of the problem.
 
 ---
 ## Navigation

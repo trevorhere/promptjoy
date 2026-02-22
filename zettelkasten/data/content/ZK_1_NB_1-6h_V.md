@@ -1,22 +1,21 @@
-
 # ZK I Zettel 1,6h
 
-## 1,6h Das Einheitsproblem stellt sich bei allen Organisatio - 
- nen in gleicher Weise, vorausgesetzt dass man die Einheit 
- in einer Wirkungseinheit sucht. 
+## 1,6h The unity problem arises in all organizations 
+ in the same way, provided one seeks the unity 
+ in an effect unity. 
 
- Das sieht schon [[Bibliography/heller_1934_staatslehre|Heller, Staatslehre, S. 229]] : 
- "Mit der nötigen Klarheit gestellt, lautet also das Problem: 
- wie ist der Staat als Einheit in der Vielheit zu begreifen, 
- ohne ihn als ein selbständiges, von den ihn bewirkenden 
- Menschen losgelöstes Wesen zu behaupten und ohne 
- ihn als blosse Fiktion zu erklären? Mit anderen Worten: 
- wie ist der Staat als vielheitlich bewirkt und doch einheitlich 
- wirkend zu verstehen? Es wäre schon viel damit gewonnen, 
- wollte man zugeben, ! > dass das Problem der wirklichen 
- Einheit in der Vielheit der bewirkenden Menschen sich nicht 
- nur beim Staate, sondern bei ausnahmslos allen Organisationen 
- einstellt. < ! Gewiss ist es richtig, dass der Staat mehr ist als die [[Fortsetzung des Textes auf Zettel 1-6h1|]]
+ This is already seen by [[Bibliography/heller_1934_staatslehre|Heller, Staatslehre, S. 229]]: 
+ "Posed with the necessary clarity, the problem thus reads: 
+ how is the state to be understood as unity in plurality, 
+ without asserting it as an independent being detached from 
+ the humans who effect it and without 
+ explaining it as a mere fiction? In other words: 
+ how is the state to be understood as effected by plurality and yet acting 
+ as a unity? Much would already be gained if one would 
+ admit ! > that the problem of real 
+ unity in the plurality of effecting humans arises not 
+ only in the state, but in absolutely all organizations 
+ without exception. < ! Certainly it is correct that the state is more than the [[Continuation of text on slip 1-6h1|]]
 
 ---
 ## Navigation

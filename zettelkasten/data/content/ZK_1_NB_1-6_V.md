@@ -1,19 +1,18 @@
-
 # ZK I Zettel 1,6
 
-## 1,6 Das Wesen der Einheit des Staates [[1-6-2|2]] ; [[1-6-3|3]] 
+## 1,6 The nature of the unity of the state [[1-6-2|2]] ; [[1-6-3|3]] 
 
- Letztlich für eine Organisationslehre nicht fassbar. 
- Nachdem die klare rationalistische Einheitsfiktion 
- aufgegeben worden ist, bleibt nur der Weg einer 
- bewusst einseitigen Verkürzung des Problems (Ent - 
- scheidungs- und Wirkungseinheit) auf das 
- Berechenbare hin und zugleich: die Auflösung 
- der einfachen Frage in immer kompliziertere 
- Strukturen. [[1-6-1|1]] 
+ Ultimately not graspable for a theory of organization. 
+ Once the clear rationalist fiction of unity 
+ has been abandoned, there remains only the path of a 
+ consciously one-sided reduction of the problem (decision- 
+ and effective unity) toward 
+ the calculable, and at the same time: the dissolution 
+ of the simple question into ever more complicated 
+ structures. [[1-6-1|1]] 
 
- Diese beiden Auswege sind typische Behelfe der 
- Wissenschaft.
+ These two exits are typical expedients of 
+ science.
 
 ---
 ## Navigation

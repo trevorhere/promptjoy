@@ -1,4 +1,3 @@
-
 # ZK I Zettel 1,5B1d1
 
 ## 1,5B1d1 [[1-5B1d|1]] "A Commenwealth is said to be instituted , 

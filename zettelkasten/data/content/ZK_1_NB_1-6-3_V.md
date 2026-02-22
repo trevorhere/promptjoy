@@ -1,9 +1,8 @@
-
 # ZK I Zettel 1,6,3
 
-## 1,6,3 [[1-6|3]] Verweisungen: 
+## 1,6,3 [[1-6|3]] References: 
 
- Organisationseinheit als funktionale Einheit [[7-7g17|7,7g17]] ; [[28-10f9d|28,10f9d]] ; [[28-10f4o|28,10f4o]]
+ Organizational unity as functional unity [[7-7g17|7,7g17]] ; [[28-10f9d|28,10f9d]] ; [[28-10f4o|28,10f4o]]
 
 ---
 ## Navigation

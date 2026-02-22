@@ -1,16 +1,15 @@
-
 # ZK I Zettel 1,5A1c3
 
-## 1,5A1c3 Der englische Hegelianismus übernimmt ebenfalls 
- die Lehre vom Gruppengeist. Vgl. namentlich: 
+## 1,5A1c3 English Hegelianism likewise adopts 
+ the doctrine of the group spirit. Cf. especially: 
 
  [[Bibliography/hobhouse_1913_purpose|L.T. Hobhouse, Development and Purpose, New York 1913]] 
  [[Bibliography/hobhouse_1924_development|L.T. Hobhouse,Social Development, New York 1924]] 
  [[Bibliography/wallas_1914_society|Graham Wallas, The Great Society, New York 1914]] 
 
- In dieselbe Richtung führt die in den zwanziger 
- Jahren sehr einflussreiche sozialpsychologische Lehre 
- von [[Bibliography/mcdougall_1920_group|McDougall, The Group Mind, New York 1920]] .
+ In the same direction leads the social-psychological doctrine 
+ very influential in the 1920s 
+ by [[Bibliography/mcdougall_1920_group|McDougall, The Group Mind, New York 1920]] .
 
 ---
 ## Navigation

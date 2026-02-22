@@ -1,13 +1,12 @@
-
 # ZK I Zettel 1,3a
 
-## 1,3a Grenzen der Willensvereinheitlichung 
+## 1,3a Limits of the unification of will 
 
- "Nicht durch Herrschaft, sondern durch innere Faktoren gibt es 
- eine Kohärenz der Menschen, die noch in der Anarchie sich 
- zu bewähren vermag, und ohne die keine Herrschaft bestehen 
- kann. Sie entziehen sich dem rechnenden Herrschaftsden - 
- ken." ( [[Bibliography/jaspers_1947_wahrheit|Jaspers, Von der Wahrheit, S. 369]] )
+ "Not through domination, but through internal factors is there 
+ a coherence of humans, which can prove itself even in anarchy, 
+ and without which no domination can persist. 
+ They escape calculating domination- 
+ thinking." ( [[Bibliography/jaspers_1947_wahrheit|Jaspers, Von der Wahrheit, S. 369]] )
 
 ---
 ## Navigation

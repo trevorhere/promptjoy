@@ -1,12 +1,11 @@
-
 # ZK I Zettel 1,3b
 
-## 1,3b Grenzen der Vereinheitlichung 
+## 1,3b Limits of unification 
 
- Notwendigkeit der Eingelebtheit, des Gewachsenseins. 
- z.B. der [Heuss](/bestand/register/personenregister/item/heuss_theodor) 'sche Versuch, eine National - 
- hymne anzufertigen. 
- andererseits: die Entstehung der Marseillaise.
+ Necessity of being lived-in, of having grown organically. 
+ e.g. [Heuss](/bestand/register/personenregister/item/heuss_theodor)'s attempt to manufacture a national 
+ anthem. 
+ on the other hand: the emergence of the Marseillaise.
 
 ---
 ## Navigation

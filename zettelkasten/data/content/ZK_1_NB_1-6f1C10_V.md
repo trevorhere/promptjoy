@@ -1,23 +1,22 @@
-
 # ZK I Zettel 1,6f1C10
 
 ## 1,6f1C10 
 
- kantischen Sinne genommen. So z.B. [[Bibliography/kelsen_1928_staatsbegriff|Staats-begriff, S. 212ff.]] 
+ Kantian sense. So e.g. [[Bibliography/kelsen_1928_staatsbegriff|Staats-begriff, S. 212ff.]] 
 
- Der Staat ist dann die logische Idee der Einheit des 
- Rechts. Das sprengt – was Kelsen nicht sieht – seine These von 
- der Identität von Staat und Rechtsordnung. Denn die Idee ist 
- nicht dasselbe wie das System. [[Bibliography/kelsen_1928_staatsbegriff|Kelsen]] zitiert im übrigen aus - 
- drücklich [[Bibliography/cassirer_1923_substanzbegriff|Cassirer, Substanzbegriff und Funktionsbegriff, S.224]] : "… eine Idee, die zum Zwecke der Ordnung der 
- Erscheinungen konzipiert ist, aber mit diesen Erscheinun - 
- gen selbst methodisch nicht auf der gleichen Stufen steht." 
+ The state is then the logical idea of the unity of 
+ law. This breaks – which Kelsen does not see – his thesis of 
+ the identity of state and legal order. For the idea is 
+ not the same as the system. [[Bibliography/kelsen_1928_staatsbegriff|Kelsen]] moreover expressly quotes 
+ [[Bibliography/cassirer_1923_substanzbegriff|Cassirer, Substanzbegriff und Funktionsbegriff, S. 224]]: "… an idea that is conceived for the purpose of ordering 
+ phenomena, but which methodologically does not stand on 
+ the same level as these phenomena themselves." 
 
- Siehe insb. [[Bibliography/kelsen_1928_staatsbegriff|Kelsen, Staatsbegriff, S. 213]] : "Nimmt man die 
- Einheit des Rechtes nicht als von vornherein gegeben, sondern 
- fragt man, wie diese Einheit erzeugt wird, das heisst nach 
- dem Prinzipe, das die Einheit herstellt, garantiert, kurz, geht 
- man aus einer statischen Betrachtung – in der man das [[Fortsetzung des Textes auf Zettel 1-6f1C11|]]
+ See esp. [[Bibliography/kelsen_1928_staatsbegriff|Kelsen, Staatsbegriff, S. 213]]: "If one does not take the 
+ unity of law as given from the outset, but rather 
+ asks how this unity is produced, that is, for 
+ the principle that establishes, guarantees unity, in short, if one 
+ proceeds from a static consideration – in which one [[Continuation of text on slip 1-6f1C11|]]
 
 ---
 ## Navigation

@@ -1,23 +1,22 @@
-
 # ZK I Zettel 1,6f1C12
 
 ## 1,6f1C12 
 
- Wie der Staat aber nun im einzelnen als regulative 
- Idee der Rechtserkenntnis fungieren soll, das führt [Kelsen](/bestand/register/personenregister/item/kelsen_hans) 
- nicht durch und es lässt sich auch nicht durchführen, da 
- es ja mehrere Staaten und mehrere positive Rechtssysteme gibt. 
- So könnte also höchstens der luxemburgische Staat die regu - 
- lative Idee für das luxemburgische Recht sein usw. Der 
- luxemburgische Staat lässt sich aber als solcher in keine ein - 
- deutige begriffliche Korrelation zum luxemburgischen Recht 
- bringen, denn das luxemburgische Recht ist überhaupt 
- kein idee-geregeltes System, das aus einem Prinzip 
- zusammenhängt, "welches vor der bestimmten Erkenntnis 
- der Teile vorhergeht und die Bedingungen enthält, jedem 
- Teile seine Stelle und Verhältnis zu den übrigen a priori 
- zu bestimmen" ( [[Bibliography/kant_1901_reinen-vernunft|Kant, Kr. d. r. V.2, S. 673]] ); und am aller - 
- wenigsten ist der luxemburgische Staat (als Begriff) dieses [[Fortsetzung des Textes auf Zettel 1-6f1C13|]]
+ How the state is supposed to function in detail as a regulative 
+ idea of legal cognition, however, [Kelsen](/bestand/register/personenregister/item/kelsen_hans) does not carry through, 
+ nor can it be carried through, since 
+ there are indeed several states and several positive legal systems. 
+ Thus at most the Luxembourg state could be the regu- 
+ lative idea for Luxembourg law, etc. The 
+ Luxembourg state, however, cannot as such be brought into any un- 
+ ambiguous conceptual correlation with Luxembourg law, 
+ for Luxembourg law is not at all 
+ an idea-regulated system that coheres from one principle, 
+ "which precedes the determinate cognition 
+ of the parts and contains the conditions for determining a priori 
+ each part's place and relation to the others" 
+ ([[Bibliography/kant_1901_reinen-vernunft|Kant, Kr. d. r. V.2, S. 673]]); and least 
+ of all is the Luxembourg state (as concept) this [[Continuation of text on slip 1-6f1C13|]]
 
 ---
 ## Navigation

@@ -1,24 +1,23 @@
-
 # ZK I Zettel 1,6f1C8
 
-## 1,6f1C8 widerspruchsvolle Welt gestellt ist. 
+## 1,6f1C8 contradictory world. 
 
- Macht man ferner mit [Kelsen](/bestand/register/personenregister/item/kelsen_hans) die Voraussetzung, [[1-6f1C8a|1]] dass die 
- zur wissenschaftlichen Behandlung des Staates zuständige Me - 
- thode die rechtswissenschaftliche ist – und dafür liegen gute 
- Gründe vor insofern, als das Recht die wichtigste, wenn nicht alleini - 
- ge Sozialtechnik ist, so folgt daraus konsequent, dass der 
- Staat durch die rechtswissenschaftliche Methode als Gegenstand 
- konstituiert wird, also nur als Einheit des Systems der 
- Rechtsordnung gedacht werden kann. 
- vgl. z.B. [[Bibliography/kelsen_1928_souveraenitaet|Souveränität, S. 11f.]] , Staatsbegriff, [[Bibliography/kelsen_1925_staatslehre|Staats-lehre, S. 15ff.]] Dazu vgl. auch [[Bibliography/marck_1925_rechtsphilosophie|Marck, S. 23f.]] 
+ If one furthermore makes with [Kelsen](/bestand/register/personenregister/item/kelsen_hans) the assumption, [[1-6f1C8a|1]] that the 
+ method competent for the scientific treatment of the state 
+ is the jurisprudential one – and there are good 
+ reasons for this insofar as law is the most important, if not sole 
+ social technique – then it follows consistently that the 
+ state is constituted as an object by the jurisprudential method, 
+ thus can only be thought as the unity of the system of the 
+ legal order. 
+ cf. e.g. [[Bibliography/kelsen_1928_souveraenitaet|Souveränität, S. 11f.]], concept of state, [[Bibliography/kelsen_1925_staatslehre|Staats-lehre, S. 15ff.]] On this cf. also [[Bibliography/marck_1925_rechtsphilosophie|Marck, S. 23f.]] 
 
- Ausarbeitung in zweifacher Weise: 
+ Elaboration in two ways: 
 
  
 
- a.) Staat als Personifikation der Rechtsordnung, womit seine 
- juristische Persönlichkeit erklärt werden soll (vgl. z.B. [[Bibliography/kelsen_1925_staatslehre|Staatslehre,S. 66f.]] ). Das ist jedoch nicht nur "im Grunde eine überflüssige [[Fortsetzung des Textes auf Zettel 1-6f1C9|]]
+ a.) State as personification of the legal order, by which its 
+ legal personality is to be explained (cf. e.g. [[Bibliography/kelsen_1925_staatslehre|Staatslehre, S. 66f.]]). This is however not only "basically a superfluous [[Continuation of text on slip 1-6f1C9|]]
 
 ---
 ## Navigation

@@ -1,12 +1,10 @@
-
 # ZK I Zettel 1,6f4
 
-## 1,6f4 Von einer Staatstheorie muss verlangt werden, 
- dass sie den inneren Zusammenhang der verschiedenen 
- Einheitstypen, ihr gegenseitiges Sichbedingen verständ - 
- lich macht und damit die Einheitstypen in eine 
- umfassende, freilich dann vielleicht nicht mehr eigens 
- vorstellbare (horizontale) Einheit einbringt.
+## 1,6f4 Of a state theory it must be demanded 
+ that it makes comprehensible the inner connection of the various 
+ unity types, their mutual conditioning, and thereby brings 
+ the unity types into a comprehensive, though then perhaps 
+ no longer separately conceivable (horizontal) unity.
 
 ---
 ## Navigation

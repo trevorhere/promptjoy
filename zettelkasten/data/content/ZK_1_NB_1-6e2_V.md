@@ -1,11 +1,10 @@
-
 # ZK I Zettel 1,6e2
 
-## 1,6e2 aber das zwingt noch nicht zur Annahme eines 
- besonderen Überbuben, der diese Mehrleistung erbringt. 
- Diese einfache Tatsache des potenzierten Leistungseffektes 
- war es jedenfalls nicht, was die metaphysische Spekulation 
- um das Wesen des Staates in Gang gebracht hat.
+## 1,6e2 but this does not yet compel the assumption of a 
+ special super-boy who produces this extra performance. 
+ This simple fact of the amplified performance effect 
+ was in any case not what set in motion the metaphysical speculation 
+ about the essence of the state.
 
 ---
 ## Navigation

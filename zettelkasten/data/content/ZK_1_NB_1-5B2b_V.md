@@ -1,11 +1,9 @@
-
 # ZK I Zettel 1,5B2b
 
-## 1,5B2b Anders als bei [Hobbes](/bestand/register/personenregister/item/hobbes_thomas) fordert die Vernunft des 
- Menschen hier nicht einen möglichst effektiven Staat 
- schlechthin, sondern nur einen Staat, der die Befugnisse hat 
- (Rechtsform: trust), die er braucht, um das Eigentum seiner 
- Bürger wirksam zu schützen. Vgl. [[Bibliography/locke_1946_treatise|§ 131]] : 
+## 1,5B2b Unlike with [Hobbes](/bestand/register/personenregister/item/hobbes_thomas) , reason here does not demand 
+ a maximally effective state as such, but only a state that has the powers 
+ (legal form: trust) that it needs to effectively protect the property of its 
+ citizens. Cf. [[Bibliography/locke_1946_treatise|§ 131]] : 
 
  "But though men when they enter into society give up 
  the equality, liberty, and executive power they had in 
