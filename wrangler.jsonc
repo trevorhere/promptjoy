@@ -1,0 +1,26 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "promptjoy-contact",
+  "main": "src/contact-worker.ts",
+  "compatibility_date": "2026-05-09",
+  "routes": [
+    {
+      "pattern": "promptjoy.co/api/contact*",
+      "zone_name": "promptjoy.co"
+    },
+    {
+      "pattern": "www.promptjoy.co/api/contact*",
+      "zone_name": "promptjoy.co"
+    }
+  ],
+  "d1_databases": [
+    {
+      "binding": "PROMPTJOY_DB",
+      "database_name": "promptjoy",
+      "database_id": "57559a16-2589-4b20-ae15-d12c58902afc"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
